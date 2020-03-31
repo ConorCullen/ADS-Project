@@ -1,307 +1,1103 @@
 Country Name,Sex,Indicator,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
 Afghanistan,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.3,27.3,27.7,27.7,27.3,27.7,27.7,27.7,27.7,27.7,27.7,27.7,27.7,27.7
 Afghanistan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,NaN,NaN,3.7,NaN,7.4,NaN,12,NaN,11.1,10,16.7,NaN,16.1
+Albania,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0256,NaN,NaN,NaN,NaN,NaN
 Albania,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,5.2,5.2,5.7,5.7,5.7,6.4,7.1,7.1,7.1,7.1,16.4,16.4,15.7,15.7,17.9,20,20.7,22.9,27.9,27.9
+Albania,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20.5,23.7,22.5,19.1,NaN,16.1,31.9,NaN,NaN,NaN,22.6,NaN
 Albania,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.3,NaN,NaN,6.7,NaN,6.7,NaN,6.7,NaN,30,35,40,NaN,53.3
+Albania,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22.8,24.4,22,16.3,NaN,14.7,29.3,NaN,NaN,NaN,NaN,NaN
+Albania,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,42,40,45,46,43,43,46,NaN,NaN,NaN
+Albania,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8,9,9,10,10,11,11,10,NaN,NaN,NaN
+Algeria,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1511,NaN,NaN,NaN,NaN,NaN
 Algeria,female,Proportion of seats held by women in national parliaments (%),3.2,3.2,3.2,3.4,3.4,6.2,6.2,6.2,6.2,6.2,7.7,7.7,7.7,7.7,8,31.6,31.6,31.6,31.6,31.6,25.8,25.8
+Algeria,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,5.2,NaN,5.7,4.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.6,9.9,NaN,NaN,8.4,NaN
 Algeria,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.5,NaN,NaN,10.8,NaN,3.6,NaN,3.1,NaN,12.1,20,13.3,NaN,13.3
+Algeria,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Algeria,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35,36,37,38,39,40,40,41,42,43,NaN,NaN,NaN
+Algeria,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,5,5,6,6,6,6,6,6,NaN,NaN,NaN
+Angola,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2614,NaN,NaN,NaN,NaN,NaN
 Angola,female,Proportion of seats held by women in national parliaments (%),9.5,15.5,15.5,15.5,15.5,15.5,15.5,15,15,15,15,37.3,38.6,38.6,38.2,34.1,34.1,36.8,36.8,36.8,38.2,30.5
 Angola,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.7,NaN,NaN,6.3,NaN,27.8,NaN,29,NaN,19.4,22.2,22.2,NaN,34.4
+Argentina,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3136,NaN,NaN,NaN,NaN,NaN
 Argentina,female,Proportion of seats held by women in national parliaments (%),27.6,27.6,NaN,26.5,NaN,30.7,30.7,33.7,36.2,35,40,40,38.5,38.5,37.4,37.4,NaN,36.6,NaN,35.8,38.9,38.9
+Argentina,female,Proportion of women in managerial positions,NaN,NaN,NaN,27.4,27.2,25.8,29,27.4,26.4,27.8,NaN,27.9,32.4,29.9,28,30.4,30.3,30.6,NaN,NaN,30.9,NaN
 Argentina,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8.3,NaN,NaN,23.1,NaN,20,NaN,17.6,NaN,17.6,22.2,17.4,NaN,25
+Argentina,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.6,26.3,29.4,NaN,29.9,34.4,32.1,30.2,32.3,36.5,38.6,NaN,NaN,32.2,NaN
+Argentina,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,29,29,30,30,NaN,NaN,NaN
+Argentina,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Armenia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0662,NaN,NaN,NaN,NaN,NaN
 Armenia,female,Proportion of seats held by women in national parliaments (%),6.3,6.3,3.1,3.1,3.1,3.1,4.6,5.3,5.3,5.3,9.2,8.4,9.2,9.2,8.4,10.7,10.7,10.7,10.7,10.7,18.1,18.1
+Armenia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21.5,NaN,NaN,31.7,NaN,28.8,32.4,29.1,29.5,28.7,NaN
 Armenia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,5.9,NaN,11.1,NaN,10.5,NaN,11.1,11.1,11.1,NaN,7.1
+Armenia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Armenia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,23,22,22,NaN,23,24,NaN,NaN,NaN
+Armenia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Aruba,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Aruba,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Australia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1945,NaN,NaN,NaN,NaN,NaN
+Australia,female,Proportion of seats held by women in national parliaments (%),15.5,15.5,22.4,23,NaN,25.3,25.3,24.7,24.7,24.7,26.7,26.7,27.3,24.7,24.7,24.7,26,26,26.7,28.7,28.7,28.7
+Australia,female,Proportion of women in managerial positions,NaN,NaN,NaN,30,31.8,32.2,32.7,33.5,34.4,34.3,34.3,35.5,35.5,34.4,36.1,35.7,35.8,36.3,37.6,36.6,NaN,NaN
+Australia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20,NaN,NaN,24.1,NaN,23.3,NaN,20.7,NaN,17.2,17.2,24.1,NaN,NaN
+Australia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Australia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31,32,NaN,33,NaN,NaN,NaN,NaN,NaN,NaN
+Australia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,32,33,32,32,32,32,NaN,NaN,NaN
+Austria,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3318,NaN,NaN,NaN,NaN,NaN
+Austria,female,Proportion of seats held by women in national parliaments (%),26.2,26.2,NaN,26.8,26.8,NaN,33.9,33.9,33.9,32.2,32.8,27.3,27.9,27.9,27.9,27.9,33.3,32.2,30.6,30.6,30.6,34.4
+Austria,female,Proportion of women in managerial positions,NaN,NaN,NaN,30.1,30.1,29.3,27.4,26.3,26.8,27.9,26.2,28.1,27.4,28.9,27.5,30.1,29.4,30.3,29.7,31.8,31.8,NaN
+Austria,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35.3,NaN,NaN,38.5,NaN,38.5,NaN,46.2,NaN,30.8,30.8,23.1,NaN,NaN
+Austria,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,28.1,29.4,30.8,28.5,22.2,21.5,21,21,25.2,23.3,25.4,26.1,27.1,26.3,27.9,27.9,29.5,29.2,NaN
+Austria,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,43,44,44,46,47,48,49,50,51,53,NaN,NaN,NaN,NaN
+Austria,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,9,10,11,11,12,13,13,14,15,15,16,NaN,NaN,NaN
+Azerbaijan,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0663,NaN,NaN,NaN,NaN,NaN
 Azerbaijan,female,Proportion of seats held by women in national parliaments (%),12,12,12,NaN,10.5,10.5,10.5,10.5,13,11.3,11.4,11.4,11.4,16,16,16,16,15.6,16.9,16.8,16.8,16.8
+Azerbaijan,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25.5,32.8,34.2,33,34.5,35.1,34.9,34.5,NaN
 Azerbaijan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15,NaN,NaN,6.7,NaN,2.9,NaN,2.9,NaN,2.8,2.5,0,NaN,NaN
+Azerbaijan,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Azerbaijan,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,12,11,12,11,12,12,NaN,NaN,NaN,NaN
+Azerbaijan,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bahrain,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0667,NaN,NaN,NaN,NaN,NaN
 Bahrain,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,2.5,2.5,2.5,2.5,2.5,10,10,10,7.5,7.5,7.5,7.5,7.5
+Bahrain,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,12.3,NaN,NaN,10.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Bahrain,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8.7,NaN,NaN,4.3,NaN,10.7,NaN,11.5,NaN,14.8,4.5,4.5,NaN,4.3
+Bahrain,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bahrain,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bahrain,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bangladesh,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.4036,NaN,NaN,NaN,NaN,NaN
 Bangladesh,female,Proportion of seats held by women in national parliaments (%),9.1,9.1,9.1,9.1,NaN,2,2,2,14.8,15.1,NaN,6.3,18.6,18.6,19.7,19.7,19.7,19.8,20,20,20.3,20.3
+Bangladesh,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9.7,NaN,NaN,NaN,14.8,NaN,NaN,13.2,NaN,NaN,11.4,10.7,NaN
 Bangladesh,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8.3,NaN,NaN,8.3,NaN,16,NaN,14.3,NaN,6.7,6.7,6.3,NaN,8
+Bangladesh,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.9,NaN,NaN,NaN,10,NaN,NaN,NaN,NaN,NaN,NaN,11.5,NaN
+Bangladesh,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bangladesh,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Barbados,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1503,NaN,NaN,NaN,NaN,NaN
 Barbados,female,Proportion of seats held by women in national parliaments (%),10.7,10.7,10.7,10.7,10.7,10.7,13.3,13.3,13.3,13.3,13.3,10,10,10,10,10,16.7,16.7,16.7,16.7,16.7,20
+Barbados,female,Proportion of women in managerial positions,NaN,NaN,NaN,35.1,41.3,42.2,44.9,43.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,48.3,48.6,50.5,48.6,NaN,NaN
 Barbados,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,29.4,NaN,NaN,27.8,NaN,5.6,NaN,11.8,NaN,11.8,11.8,11.8,NaN,23.8
+Barbados,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Barbados,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,50,NaN,NaN,54,54,54,NaN,NaN,NaN,NaN
+Barbados,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15,17,16,16,16,16,16,16,NaN,NaN,NaN,NaN
 Belarus,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,10.3,10.3,10.3,29.4,29.1,29.1,29.1,31.8,31.8,31.8,31.8,26.6,26.6,26.6,27.3,34.5,34.5,34.5
+Belarus,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,46.3,NaN,NaN,NaN,NaN,NaN,NaN,46,47.6,NaN
 Belarus,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,NaN,NaN,6.5,NaN,3.2,NaN,3.4,NaN,3.4,10.7,3.6,NaN,3.4
+Belarus,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Belarus,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Belarus,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Belgium,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3664,NaN,NaN,NaN,NaN,NaN
+Belgium,female,Proportion of seats held by women in national parliaments (%),12.7,12.7,23.3,23.3,23.3,23.3,35.3,34.7,34.7,34.7,35.3,35.3,38,39.3,38,38,38,39.3,39.3,39.3,38,38
+Belgium,female,Proportion of women in managerial positions,NaN,NaN,NaN,32.1,32.9,31.8,29.9,29.9,31.8,31.5,33.8,32.7,34,34.1,29.9,32.4,31.4,31.7,32.6,32.7,33.6,NaN
+Belgium,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21.4,NaN,NaN,23.1,NaN,33.3,NaN,41.7,NaN,41.7,23.1,23.1,NaN,NaN
+Belgium,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,24.5,28.4,28,27.3,26.9,30.2,31.1,33.5,31.9,34.6,34.8,30.5,31.7,30.8,31.3,31,32,32.9,NaN
+Belgium,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,46,47,48,49,51,52,NaN,NaN,NaN
+Belgium,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19,20,21,22,NaN,NaN,NaN
+Belize,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0099,NaN,NaN,NaN,NaN,NaN
 Belize,female,Proportion of seats held by women in national parliaments (%),3.4,3.4,6.9,6.9,6.9,6.9,3.3,6.7,6.7,6.7,3.3,0,0,0,0,3.1,3.1,3.1,3.1,3.1,9.4,9.4
+Belize,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,39.3,46.4,NaN,51.1,NaN
 Belize,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.3,NaN,NaN,18.2,NaN,0,NaN,0,NaN,13.3,13.3,0,NaN,NaN
+Belize,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,39.1,NaN,NaN,NaN
+Belize,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,40,NaN,NaN,NaN,NaN
+Belize,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,11,13,NaN,18,15,NaN,NaN,NaN,NaN
+Benin,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1383,NaN,NaN,NaN,NaN,NaN
 Benin,female,Proportion of seats held by women in national parliaments (%),7.2,7.2,6,6,6,6,6,7.2,7.2,7.2,10.8,10.8,10.8,10.8,8.4,8.4,8.4,8.4,7.2,7.2,7.2,7.2
 Benin,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19,NaN,NaN,22.2,NaN,13.3,NaN,30.8,NaN,22.2,14.8,14.3,NaN,NaN
+Bhutan,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0509,NaN,NaN,NaN,NaN,NaN
 Bhutan,female,Proportion of seats held by women in national parliaments (%),2,2,2,9.3,9.3,9.3,9.3,9.2,9.3,2.7,2.7,8.5,8.5,8.5,8.5,8.5,6.4,8.5,8.5,8.5,8.5,8.5
+Bhutan,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17,16.5,18.5,NaN,NaN,NaN
 Bhutan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,0,NaN,0,NaN,0,NaN,10,10,10,NaN,NaN
+Bhutan,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bhutan,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bhutan,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7,8,NaN,NaN,NaN,NaN,NaN
+Bolivia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3175,NaN,NaN,NaN,NaN,NaN
 Bolivia,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,11.5,11.5,11.5,18.5,18.5,19.2,16.9,16.9,16.9,16.9,22.3,25.4,25.4,25.4,25.4,53.1,53.1,53.1,53.1,53.1
+Bolivia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34.7,35.1,NaN,35.7,31.4,34,39.4,37.2,35.7,35.3,NaN
 Bolivia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.7,NaN,NaN,23.5,NaN,20,NaN,45.5,NaN,33.3,28.6,27.3,NaN,NaN
+Bolivia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30,26.8,NaN
+Bolivia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bolivia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,10,10,11,11,11,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Bosnia and Herzegovina,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,7.1,NaN,16.7,16.7,16.7,14.3,11.9,11.9,19,16.7,21.4,21.4,21.4,21.4,21.4,21.4,21.4,21.4
+Bosnia and Herzegovina,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20.8,16.1,23,25.3,23.8,21.4,24.2,NaN,24.2,22,NaN,NaN,NaN
 Bosnia and Herzegovina,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.1,NaN,NaN,0,NaN,0,NaN,6.3,NaN,0,0,22.2,NaN,NaN
+Bosnia and Herzegovina,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.7,20.3,33.4,27.7,NaN,22.6,23,NaN,24.2,NaN,NaN,NaN,NaN
+Bosnia and Herzegovina,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,57,56,57,56,64,64,65,62,64,NaN,NaN,NaN
+Bosnia and Herzegovina,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6,7,7,7,7,7,NaN,NaN,NaN
+Botswana,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0353,NaN,NaN,NaN,NaN,NaN
 Botswana,female,Proportion of seats held by women in national parliaments (%),8.5,8.5,NaN,17,17,17,17,11.1,11.1,11.1,11.1,11.1,7.9,7.9,7.9,7.9,7.9,9.5,9.5,9.5,9.5,9.5
+Botswana,female,Proportion of women in managerial positions,NaN,NaN,NaN,35.4,30.9,NaN,33,NaN,NaN,30.5,NaN,NaN,37.9,38.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Botswana,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,26.7,NaN,NaN,27.8,NaN,11.8,NaN,NaN,NaN,12.5,12.5,15.8,NaN,NaN
+Botswana,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,29.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Botswana,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Botswana,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Brazil,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.144,NaN,NaN,NaN,NaN,NaN
 Brazil,female,Proportion of seats held by women in national parliaments (%),6.6,6.6,5.7,5.7,6.8,6.2,8.6,8.6,8.6,8.8,9,9,8.8,8.6,8.6,8.6,8.6,9.9,9.9,9.9,10.7,10.7
+Brazil,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,29,32.5,33.7,33.8,35.3,34.9,35.9,35.7,35.7,NaN,36.1,38,38,38.7,39.4,39.7,39.9,NaN
 Brazil,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.4,NaN,NaN,11.4,NaN,7.1,NaN,27,NaN,25.6,15.4,4,NaN,NaN
+Brazil,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,35,34.2,35.7,38.1,36.3,37.7,35.8,35.2,NaN,36.6,36.4,37,37.4,38,38.2,38.4,NaN
+Brazil,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Brazil,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,11,11,14,12,16,15,NaN,NaN,NaN,NaN,NaN
+Brunei Darussalam,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,NaN,NaN,NaN
 Brunei Darussalam,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.5,9.1,9.1
+Brunei Darussalam,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,25.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33.6,NaN,NaN,NaN,NaN
 Brunei Darussalam,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9.1,NaN,NaN,7.1,NaN,0,NaN,0,NaN,0,0,0,NaN,NaN
+Brunei Darussalam,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,32.5,NaN,NaN,NaN,NaN
+Brunei Darussalam,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Brunei Darussalam,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bulgaria,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1606,NaN,NaN,NaN,NaN,NaN
 Bulgaria,female,Proportion of seats held by women in national parliaments (%),10.8,10.8,10.8,10.8,26.2,26.2,26.2,26.3,22.1,22.1,21.7,21.7,20.8,20.8,20.8,22.9,24.6,20,20.4,20.4,23.8,23.8
+Bulgaria,female,Proportion of women in managerial positions,NaN,NaN,NaN,29.8,32.7,33.5,31.3,34.4,34,31.6,31.4,32.3,32.2,33.3,36.8,36.4,36.5,36.7,36.5,37.9,39.2,NaN
 Bulgaria,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.8,NaN,NaN,23.5,NaN,17.6,NaN,18.8,NaN,41.2,35,52.9,NaN,NaN
+Bulgaria,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,37.5,40.5,42.3,37.8,41.4,40.6,37.6,36.4,36.5,35.8,38.6,37,35.5,36,35.4,37.4,39.3,39.3,NaN
+Bulgaria,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,67,NaN,NaN,NaN
+Bulgaria,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,NaN,NaN,NaN
+Burkina Faso,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0914,NaN,NaN,NaN,NaN,NaN
 Burkina Faso,female,Proportion of seats held by women in national parliaments (%),9,8.1,8.1,8.1,8.1,11.7,11.7,11.7,11.7,11.7,15.3,15.3,15.3,15.3,15.3,15.7,15.7,18.9,9.4,9.4,11,11
+Burkina Faso,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Burkina Faso,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.8,NaN,NaN,14.3,NaN,17.9,NaN,12,NaN,13.8,12.5,13,NaN,NaN
+Burkina Faso,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Burkina Faso,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Burkina Faso,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Burundi,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2702,NaN,NaN,NaN,NaN,NaN
 Burundi,female,Proportion of seats held by women in national parliaments (%),NaN,11.9,6,14.4,14.4,18.4,18.4,18.4,30.5,30.5,30.5,30.5,31.4,32.1,30.5,30.5,30.5,30.5,36.4,36.4,36.4,36.4
+Burundi,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.4,NaN,NaN,32.4,NaN
 Burundi,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.7,NaN,NaN,29.6,NaN,28.6,NaN,34.8,NaN,36.4,34.8,22.7,NaN,NaN
+Burundi,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Burundi,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Burundi,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3,5,NaN,NaN,NaN,NaN
+Cabo Verde,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3011,NaN,NaN,NaN,NaN,NaN
 Cabo Verde,female,Proportion of seats held by women in national parliaments (%),11.1,11.1,11.1,11.1,11.1,11.1,11.1,11.1,11.1,15.3,18.1,18.1,18.1,18.1,20.8,20.8,20.8,20.8,20.8,23.6,23.6,23.6
+Cabo Verde,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,42.3,NaN,43.8,NaN
 Cabo Verde,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.8,NaN,NaN,35.7,NaN,53.3,NaN,47.1,NaN,47.1,52.9,25,NaN,NaN
+Cabo Verde,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cabo Verde,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36,35,36,35,35,36,NaN,NaN,NaN
+Cabo Verde,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,10,NaN,NaN,NaN,NaN,NaN
+Cambodia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0916,NaN,NaN,NaN,NaN,NaN
 Cambodia,female,Proportion of seats held by women in national parliaments (%),5.8,5.8,8.2,7.4,7.4,7.4,9.8,9.8,9.8,9.8,19.5,16.3,21.1,21.1,20.3,20.3,20.3,20.3,20.3,20.3,20.3,20
+Cambodia,female,Proportion of women in managerial positions,NaN,NaN,NaN,12.6,13.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.9,NaN,NaN,NaN,NaN,NaN,NaN
 Cambodia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7.1,NaN,NaN,6.9,NaN,9.7,NaN,4.9,NaN,4.7,7,9.1,NaN,NaN
+Cambodia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.7,NaN,NaN,NaN,NaN,NaN,NaN
+Cambodia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cambodia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cameroon,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0902,NaN,NaN,NaN,NaN,NaN
 Cameroon,female,Proportion of seats held by women in national parliaments (%),5.6,5.6,5.6,5.6,5.6,8.9,8.9,8.9,8.9,8.9,13.9,13.9,13.9,13.9,13.9,13.9,31.1,31.1,31.1,31.1,31.1,31.1
+Cameroon,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,49.3,NaN,NaN,NaN,NaN
 Cameroon,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.1,NaN,NaN,11.6,NaN,11.8,NaN,14,NaN,14.9,14,17.1,NaN,NaN
+Cameroon,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cameroon,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23,23,NaN,23,NaN,NaN,NaN,NaN,NaN
+Cameroon,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7,NaN,NaN,NaN,NaN,NaN
+Canada,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1959,NaN,NaN,NaN,NaN,NaN
+Canada,female,Proportion of seats held by women in national parliaments (%),20.6,20.6,20.6,NaN,20.6,20.6,20.6,21.1,21.1,20.8,21.3,22.1,22.1,22.1,24.8,24.7,24.7,25.1,26,26,26.3,27
+Canada,female,Proportion of women in managerial positions,NaN,NaN,NaN,35.5,35,34.1,35.7,36.5,35.9,36.3,36.9,36,37,36.8,37.1,36.4,35.8,35.5,NaN,NaN,NaN,NaN
+Canada,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.1,NaN,NaN,16,NaN,29.7,NaN,26.9,NaN,32,30.8,51.7,NaN,NaN
+Canada,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Canada,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Canada,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16,17,18,19,19,19,19,20,20,20,21,21,NaN,NaN,NaN
 Central African Republic,female,Proportion of seats held by women in national parliaments (%),3.5,3.5,7.3,7.3,7.3,7.3,NaN,NaN,10.5,10.5,10.5,10.5,9.6,9.6,12.5,12.5,NaN,NaN,NaN,7.2,8.6,8.6
 Central African Republic,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,NaN,NaN,12.5,NaN,12,NaN,20.7,NaN,NaN,24.1,17.4,NaN,NaN
+Chad,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0883,NaN,NaN,NaN,NaN,NaN
 Chad,female,Proportion of seats held by women in national parliaments (%),2.4,2.4,2.4,2.4,2.4,NaN,5.8,6.5,6.5,6.5,5.2,5.2,5.2,5.2,12.8,14.9,14.9,14.9,14.9,14.9,12.8,15.3
 Chad,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.5,NaN,NaN,17.2,NaN,6.9,NaN,12.1,NaN,15.2,13.6,14.3,NaN,NaN
+Chile,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1448,NaN,NaN,NaN,NaN,NaN
 Chile,female,Proportion of seats held by women in national parliaments (%),7.5,10.8,10.8,10.8,10.8,12.5,12.5,12.5,15,15,15,15,14.2,14.2,14.2,14.2,14.2,15.8,15.8,15.8,15.8,22.6
+Chile,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.8,23.6,24,25,26.9,27.4,27.4,26.5,NaN
 Chile,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.7,NaN,NaN,40.9,NaN,45.5,NaN,18.2,NaN,39.1,34.8,34.8,NaN,NaN
+Chile,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Chile,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,59,59,59,59,59,NaN,NaN,NaN
+Chile,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8,8,9,9,10,11,14,13,14,14,15,NaN,NaN,NaN
+China,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1604,NaN,NaN,NaN,NaN,NaN
 China,female,Proportion of seats held by women in national parliaments (%),NaN,21.8,21.8,21.8,21.8,21.8,20.2,20.2,20.3,20.3,20.6,21.3,21.3,21.3,21.3,21.3,23.4,23.4,23.6,23.6,24.2,24.9
 China,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.3,NaN,NaN,8.6,NaN,11.5,NaN,11.5,NaN,8.3,11.5,10,NaN,NaN
+Colombia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1662,NaN,NaN,NaN,NaN,NaN
 Colombia,female,Proportion of seats held by women in national parliaments (%),11.7,NaN,11.8,11.8,11.8,12,12,12,12.1,8.4,8.4,8.4,8.4,12.7,12.1,12.1,12.1,19.9,19.9,19.9,18.7,18.1
+Colombia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,53.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Colombia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35.7,NaN,NaN,23.1,NaN,21.4,NaN,33.3,NaN,31.3,29.4,35.3,NaN,NaN
+Colombia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Colombia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Colombia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7,7,6,6,7,4,5,6,6,6,8,NaN,NaN,NaN,NaN
 Comoros,female,Proportion of seats held by women in national parliaments (%),0,0,NaN,NaN,NaN,NaN,NaN,3,3,3,3,3,0,3,3,3,3,3,3,3,6.1,6.1
+Comoros,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,26.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Comoros,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,20,NaN,20,20,0,NaN,NaN
+Comoros,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Comoros,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Comoros,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 "Congo, Dem. Rep.",female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,12,8.4,8.4,8.4,8.4,8.4,NaN,8.9,8.9,10.6,8.9,8.9,8.9,8.9
+"Congo, Dem. Rep.",female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8,NaN,NaN,NaN,NaN,NaN,NaN,20.2,NaN,NaN,NaN,NaN,NaN,NaN
 "Congo, Dem. Rep.",female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.5,NaN,NaN,12.1,NaN,12.5,NaN,NaN,NaN,10.3,8.1,11.6,NaN,NaN
+"Congo, Dem. Rep.",female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Congo, Dem. Rep.",female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Congo, Dem. Rep.",female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 "Congo, Rep.",female,Proportion of seats held by women in national parliaments (%),NaN,12,12,12,12,NaN,8.5,8.5,8.5,8.5,7.3,7.3,7.3,7.3,7.3,7.4,7.4,7.4,7.4,7.4,11.3,11.3
 "Congo, Rep.",female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.7,NaN,NaN,13.2,NaN,13.5,NaN,13.5,NaN,10.5,10.5,22.9,NaN,NaN
+Costa Rica,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3263,NaN,NaN,NaN,NaN,NaN
 Costa Rica,female,Proportion of seats held by women in national parliaments (%),15.8,19.3,19.3,19.3,19.3,35.1,35.1,35.1,35.1,38.6,36.8,36.8,36.8,38.6,38.6,38.6,38.6,33.3,33.3,33.3,35.1,45.6
+Costa Rica,female,Proportion of women in managerial positions,NaN,NaN,NaN,32.9,25.4,26.1,29.1,26.2,24.9,29.9,27,30.4,NaN,30,35.2,28.7,36.8,31.9,28.7,34.6,36.8,NaN
 Costa Rica,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,NaN,NaN,29.4,NaN,35,NaN,29.2,NaN,25,40.9,30.4,NaN,NaN
+Costa Rica,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Costa Rica,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,49,49,51,50,51,50,52,53,52,NaN,NaN,NaN,NaN
+Costa Rica,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8,10,12,13,13,14,14,14,NaN,16,NaN,NaN,NaN
+Cote d'Ivoire,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0758,NaN,NaN,NaN,NaN,NaN
 Cote d'Ivoire,female,Proportion of seats held by women in national parliaments (%),8,8,8,NaN,8.5,8.5,8.5,8.5,8.5,8.5,8.9,8.9,8.9,8.9,11,10.4,10.4,9.4,9.2,9.2,10.6,10.6
 Cote d'Ivoire,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.1,NaN,NaN,12.5,NaN,12.5,NaN,13.9,NaN,15.6,16.7,20.9,NaN,NaN
+Croatia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1779,NaN,NaN,NaN,NaN,NaN
 Croatia,female,Proportion of seats held by women in national parliaments (%),7.9,7.9,7.9,20.5,20.5,20.5,NaN,21.7,21.7,21.7,20.9,20.9,23.5,23.5,23.8,23.8,23.8,23.8,15.2,12.6,18.5,18.5
+Croatia,female,Proportion of women in managerial positions,NaN,NaN,NaN,24.7,24.7,27.1,24.6,22.6,24,25.6,20.7,25.4,25.2,25.8,24,26.1,24.4,23.2,26.7,29.9,29.1,NaN
 Croatia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33.3,NaN,NaN,23.5,NaN,15.8,NaN,19.2,NaN,20,20,20,NaN,NaN
+Croatia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,26.8,28.3,17.5,28.2,27.5,22.7,32.1,37.2,27.4,23.6,25.8,23.9,24.4,26.1,29.5,27.9,NaN
+Croatia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,63,63,65,66,66,66,67,68,69,69,69,70,NaN,NaN,NaN
+Croatia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15,16,16,17,17,17,18,NaN,NaN,NaN
+Cuba,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3685,NaN,NaN,NaN,NaN,NaN
 Cuba,female,Proportion of seats held by women in national parliaments (%),22.8,27.6,27.6,27.6,27.6,27.6,36,36,36,36,36,43.2,43.2,43.2,45.2,45.2,48.9,48.9,48.9,48.9,48.9,53.2
+Cuba,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,32.5,38.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Cuba,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.2,NaN,NaN,18.8,NaN,25,NaN,22.6,NaN,22.6,31,25.9,NaN,NaN
+Cuba,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cuba,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cuba,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cyprus,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1298,NaN,NaN,NaN,NaN,NaN
 Cyprus,female,Proportion of seats held by women in national parliaments (%),5.4,5.4,5.4,7.1,10.7,10.7,10.7,16.1,16.1,14.3,14.3,14.3,12.5,12.5,10.7,10.7,10.7,12.5,12.5,17.9,17.9,17.9
+Cyprus,female,Proportion of women in managerial positions,NaN,NaN,NaN,14.8,19,17.6,17.5,17.3,14.8,16.2,15.4,16.1,12.2,13.8,15,15.8,18.9,17.3,22.8,25.7,20.7,NaN
 Cyprus,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,18.2,NaN,9.1,NaN,27.3,NaN,9.1,9.1,9.1,NaN,NaN
+Cyprus,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,18.5,18.6,17.3,NaN,17,17.1,17.2,17.7,20.4,13.8,14.3,14.7,16.4,18.7,18.1,25.2,27,22.4,NaN
+Cyprus,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35,40,42,41,45,46,47,47,NaN,NaN,NaN
+Cyprus,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22,22,23,24,25,25,25,NaN,NaN,NaN
+Czech Republic,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1254,NaN,NaN,NaN,NaN,NaN
+Czech Republic,female,Proportion of seats held by women in national parliaments (%),15,15,15,15,15,17,17,17,17,15.5,15.5,15.5,15.5,22,22,22,19.5,19.5,20,20,20,22
+Czech Republic,female,Proportion of women in managerial positions,NaN,NaN,NaN,24.1,26.8,26.1,27.7,28.1,29.6,28.9,28.6,28.1,29,27.7,25.8,26.2,27.2,27.9,29.5,25.4,24.6,NaN
+Czech Republic,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.1,NaN,NaN,12.5,NaN,17.6,NaN,13.3,NaN,7.1,18.8,17.6,NaN,NaN
+Czech Republic,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,26.8,29.3,28.5,31.7,30.2,31.6,30.7,29.5,29.3,28.9,27.8,24,23.1,24.5,26.6,27.8,23.1,24.1,NaN
+Czech Republic,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,62,61,61,61,61,61,60,NaN,NaN,NaN
+Czech Republic,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,13,14,13,14,15,15,15,15,15,15,15,NaN,NaN,NaN
 Democratic People's Republic of Korea,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Democratic People's Republic of Korea,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Denmark,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3738,NaN,NaN,NaN,NaN,NaN
+Denmark,female,Proportion of seats held by women in national parliaments (%),33,37.4,37.4,37.4,NaN,38,38,38,36.9,36.9,38,38,38,38,39.1,39.1,39.1,39.1,37.4,37.4,37.4,37.4
+Denmark,female,Proportion of women in managerial positions,NaN,NaN,NaN,24.2,21,21.4,25.8,23.8,24.2,24.5,28.3,23.9,24.9,22.7,27.8,28.5,27.2,26.3,26.9,28,27,NaN
+Denmark,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33.3,NaN,NaN,36.8,NaN,42.1,NaN,39.1,NaN,45.5,26.3,42.9,NaN,NaN
+Denmark,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,19.7,17.6,17.9,20.5,20.6,21.4,20.4,25.3,19.9,20.4,19.5,28.6,28.8,27.5,26.2,26.9,28.6,27.6,NaN
+Denmark,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,58,59,58,57,59,58,58,56,NaN,NaN,NaN
+Denmark,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11,11,12,12,13,13,13,14,14,NaN,NaN,NaN
+Djibouti,female,Proportion of seats held by women in national parliaments (%),NaN,0,0,0,0,0,10.8,10.8,10.8,10.8,13.8,13.8,13.8,13.8,13.8,13.8,12.7,12.7,12.7,12.7,10.8,26.2
+Djibouti,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.3,NaN,NaN,9.1,NaN,10.5,NaN,13,NaN,5.3,5.3,5.6,NaN,NaN
+Dominican Republic,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1184,NaN,NaN,NaN,NaN,NaN
 Dominican Republic,female,Proportion of seats held by women in national parliaments (%),11.7,16.1,16.1,16.1,16.1,17.3,17.3,17.3,17.3,19.7,19.7,19.7,19.7,20.8,20.8,20.8,20.8,20.8,20.8,26.8,26.8,26.8
+Dominican Republic,female,Proportion of women in managerial positions,NaN,NaN,NaN,30.2,30.7,30.2,31.1,32.9,32.4,37.7,30.8,34.9,31.1,34.2,42.5,40.9,36.9,35.3,37.2,36.6,41.1,NaN
 Dominican Republic,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,14.5,NaN,8.7,NaN,13,NaN,16,19.2,20.8,NaN,NaN
+Dominican Republic,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,36.9,40,31.5,39.1,40.3,45.1,45,38.6,37.5,45.4,46.2,51.8,58,46.6,46.7,48.9,47.4,50.5,NaN
+Dominican Republic,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,45,45,47,49,50,51,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Dominican Republic,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,NaN,13,NaN,NaN,NaN,NaN
+Ecuador,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3604,NaN,NaN,NaN,NaN,NaN
 Ecuador,female,Proportion of seats held by women in national parliaments (%),3.7,17.4,17.4,14.6,14.6,NaN,16,16,16,25,25,25,32.3,32.3,32.3,32.3,38.7,41.6,41.6,41.6,38,38
+Ecuador,female,Proportion of women in managerial positions,NaN,NaN,NaN,29.3,26.5,25,34.9,32.2,34.1,27.3,37,32,32.2,32.5,40.1,38.5,35.4,34.6,32.9,35.4,34.8,NaN
 Ecuador,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,35.3,NaN,32.5,NaN,40,NaN,22.2,23.7,27.5,NaN,NaN
+Ecuador,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,34.4,32.9,33.7,30.2,40.1,33.6,32.7,33.6,43.9,43.2,35.6,35.6,33.3,34,35.2,NaN
+Ecuador,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ecuador,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8,9,9,9,9,10,NaN,NaN,NaN,NaN
+"Egypt, Arab Rep.",female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0348,NaN,NaN,NaN,NaN,NaN
 "Egypt, Arab Rep.",female,Proportion of seats held by women in national parliaments (%),2,2,2,2,2.4,2.4,2.4,2.9,2,2,1.8,1.8,1.8,12.7,2,2,NaN,NaN,NaN,14.9,14.9,14.9
+"Egypt, Arab Rep.",female,Proportion of women in managerial positions,NaN,NaN,NaN,10.1,9.3,9,8.5,8,10.4,10.8,11.1,11.8,14,13.9,13.5,9.7,7.1,NaN,6.4,7.1,6.4,NaN
 "Egypt, Arab Rep.",female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.9,NaN,NaN,6.5,NaN,9.4,NaN,10.3,NaN,10.3,11.8,11.8,NaN,NaN
+"Egypt, Arab Rep.",female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Egypt, Arab Rep.",female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Egypt, Arab Rep.",female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+El Salvador,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1409,NaN,NaN,NaN,NaN,NaN
 El Salvador,female,Proportion of seats held by women in national parliaments (%),15.5,16.7,16.7,9.5,9.5,9.5,10.7,10.7,10.7,16.7,16.7,16.7,19,19,19,26.2,26.2,27.4,32.1,32.1,32.1,31
+El Salvador,female,Proportion of women in managerial positions,NaN,NaN,NaN,26.1,25.4,25.7,32.1,33,27.4,28.8,24.7,38.1,37.9,29,35.8,37.1,43.5,38.2,40.9,35.3,32.4,NaN
 El Salvador,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35.3,NaN,NaN,38.9,NaN,15.4,NaN,11.1,NaN,7.1,21.4,21.4,NaN,NaN
+El Salvador,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,37.6,42.9,55.8,42.7,35.6,40.7,34.1,32.7,NaN
+El Salvador,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,45,45,45,46,47,46,46,46,46,47,NaN,NaN,NaN
+El Salvador,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7,8,8,9,9,10,11,11,12,NaN,NaN,NaN
 Equatorial Guinea,female,Proportion of seats held by women in national parliaments (%),8.8,8.8,5,5,5,5,5,18,18,18,18,6,10,10,10,10,12.1,24,24,24,24,20
 Equatorial Guinea,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4.5,NaN,NaN,14,NaN,3.7,NaN,8.8,NaN,8.7,8.7,9.7,NaN,NaN
 Eritrea,female,Proportion of seats held by women in national parliaments (%),21,21,14.7,14.7,14.7,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22
 Eritrea,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.6,NaN,NaN,17.6,NaN,25,NaN,23.5,NaN,25,16.7,16.7,NaN,NaN
+Estonia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1038,NaN,NaN,NaN,NaN,NaN
 Estonia,female,Proportion of seats held by women in national parliaments (%),10.9,10.9,17.8,17.8,17.8,17.8,18.8,18.8,18.8,18.8,20.8,20.8,22.8,22.8,19.8,20.8,20.8,19,23.8,23.8,26.7,26.7
+Estonia,female,Proportion of women in managerial positions,NaN,NaN,NaN,40.4,36.9,37.9,31.2,35.2,37.2,33,33.5,35.9,35.3,36.1,35.4,31.8,33.4,32.6,30.7,36.2,38.5,NaN
 Estonia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15.4,NaN,NaN,23.1,NaN,8.3,NaN,8.3,NaN,16.7,46.2,28.6,NaN,NaN
+Estonia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,34.8,38.2,37.2,34.8,41.2,41,39.6,34.9,36.6,34.3,38.4,34.6,31.6,32.8,30.8,27.8,31.6,34.3,NaN
+Estonia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Estonia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34,35,35,NaN,NaN,NaN
 Eswatini,female,Proportion of seats held by women in national parliaments (%),3.1,3.1,3.1,3.1,3.1,3.1,10.8,10.8,10.8,10.8,10.8,13.8,13.6,13.6,13.6,13.6,6.2,6.2,6.2,6.2,6.2,7.2
+Eswatini,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,43.4,NaN,NaN
 Eswatini,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13.3,NaN,NaN,18.8,NaN,26.3,NaN,23.8,NaN,26.3,26.3,26.3,NaN,NaN
+Eswatini,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,54.6,NaN,NaN
+Eswatini,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Eswatini,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ethiopia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1457,NaN,NaN,NaN,NaN,NaN
 Ethiopia,female,Proportion of seats held by women in national parliaments (%),2,2,2,7.7,7.7,7.7,7.7,7.7,21.4,21.9,21.9,21.9,21.9,27.8,27.8,27.8,27.8,27.8,38.8,38.8,38.8,38.8
+Ethiopia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,26.5,NaN,NaN,NaN,NaN,NaN
 Ethiopia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.9,NaN,NaN,9.5,NaN,7.4,NaN,9.7,NaN,13,12.5,10,NaN,NaN
+Ethiopia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21.1,NaN,NaN,NaN,NaN,NaN
+Ethiopia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ethiopia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Fiji,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0448,NaN,NaN,NaN,NaN,NaN
 Fiji,female,Proportion of seats held by women in national parliaments (%),4.3,4.3,11.3,NaN,5.7,5.7,5.7,8.5,8.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14,16,16,16,16
+Fiji,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.2,31.7,NaN,23.8,NaN,NaN,NaN,31.5,NaN,NaN,30.4,NaN,38.9,NaN,NaN
 Fiji,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9.1,NaN,NaN,8.3,NaN,9.1,NaN,11.1,NaN,9.1,13.3,15.4,NaN,NaN
+Fiji,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.7,NaN,NaN,NaN,NaN,38.6,NaN,NaN
+Fiji,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Fiji,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Finland,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.6162,NaN,NaN,NaN,NaN,NaN
+Finland,female,Proportion of seats held by women in national parliaments (%),33.5,33.5,37,36.5,36.5,36.5,37.5,37.5,37.5,38,41.5,41.5,40,40,42.5,42.5,42.5,42.5,41.5,41.5,42,42
+Finland,female,Proportion of women in managerial positions,NaN,NaN,NaN,26.6,27.9,28.4,28.6,28.2,29.9,29.6,28.6,29.5,29.7,30.5,32,29.7,29.6,33.7,33.3,34.1,31.3,NaN
+Finland,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,47.1,NaN,NaN,57.9,NaN,63.2,NaN,50,NaN,50,62.5,38.5,NaN,NaN
+Finland,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,27.6,29.7,30.2,30.9,30.7,32.7,33.9,32.3,33.6,34.7,34.3,31.1,29.7,29.5,34.3,33.5,34.1,31.5,NaN
+Finland,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,40,41,43,44,47,47,51,50,51,52,54,NaN,NaN,NaN
+Finland,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11,11,12,12,13,14,14,15,15,15,16,16,NaN,NaN,NaN
+France,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.187,NaN,NaN,NaN,NaN,NaN
+France,female,Proportion of seats held by women in national parliaments (%),10.9,10.9,10.9,10.9,10.9,12.1,12.2,12.2,12.2,12.2,18.2,18.2,18.9,18.9,18.9,26.9,26.9,26.2,26.2,26.2,39,39.6
+France,female,Proportion of women in managerial positions,NaN,NaN,NaN,35,35.5,36.4,35.4,35.9,37.6,37.9,37.8,38.5,38.1,38.5,39.3,39.3,36,32.7,31.7,32.9,33.4,NaN
+France,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.6,NaN,NaN,46.7,NaN,26.3,NaN,20.8,NaN,48.6,50,52.9,NaN,NaN
+France,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,31.7,32.6,34.5,32.5,33.1,36.3,37,36.5,36.8,37.4,38.5,39.1,39.2,35.6,32,30.9,31.1,32.5,NaN
+France,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,65,66,67,68,NaN,NaN,NaN
+France,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11,19,19,NaN,NaN,NaN
 Gabon,female,Proportion of seats held by women in national parliaments (%),8.3,8.3,8.3,9.2,9.2,9.2,9.2,9.2,9.2,12.5,16.7,16.7,14.7,14.7,14.2,15.8,15.8,15,14.2,14.2,17.1,17.1
 Gabon,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.8,NaN,NaN,16.7,NaN,20.7,NaN,14.3,NaN,18.8,12.5,17.9,NaN,NaN
 Gambia,female,Proportion of seats held by women in national parliaments (%),2,2,2,2,2,5.7,13.2,13.2,13.2,13.2,9.4,9.4,7.5,7.5,7.5,7.5,7.5,9.4,9.4,9.4,10.3,10.3
+Gambia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33.8,NaN,NaN,NaN,NaN,NaN,NaN
 Gambia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20,NaN,NaN,27.8,NaN,31.3,NaN,31.3,NaN,27.8,21.1,NaN,NaN,NaN
+Gambia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33.7,NaN,NaN,NaN,NaN,NaN,NaN
+Gambia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Gambia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Georgia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0915,NaN,NaN,NaN,NaN,NaN
 Georgia,female,Proportion of seats held by women in national parliaments (%),6.9,6.9,NaN,7.2,7.2,7.2,7.2,9.4,9.4,9.4,9.4,6,5.1,6.5,6.6,12,12,12,11.3,NaN,16,16
+Georgia,female,Proportion of women in managerial positions,NaN,NaN,NaN,19,23.4,27.5,28.4,25.6,26.3,32.5,34,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN
 Georgia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22.2,NaN,NaN,17.6,NaN,5.6,NaN,15.8,NaN,21.1,15.8,11.1,NaN,NaN
+Georgia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Georgia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,49,46,53,51,49,NaN,NaN,47,NaN,NaN,NaN,NaN
+Georgia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6,6,6,8,8,NaN,NaN,NaN,NaN,9,NaN,NaN,NaN,NaN
+Germany,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3611,NaN,NaN,NaN,NaN,NaN
+Germany,female,Proportion of seats held by women in national parliaments (%),26.2,26.2,30.9,30.9,31.1,32.2,32.2,32.8,31.8,31.6,31.6,32.2,32.8,32.8,32.9,32.9,36.5,36.5,36.5,36.5,37,30.7
+Germany,female,Proportion of women in managerial positions,NaN,NaN,NaN,27.1,26.9,27.3,28,27.7,28.2,28.5,28.7,29.2,29.7,29.9,30.3,28.6,28.9,29,29.3,29.3,29.2,NaN
+Germany,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,46.2,NaN,NaN,33.3,NaN,33.3,NaN,33.3,NaN,33.3,33.3,33.3,NaN,NaN
+Germany,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,20.7,20.6,22,23.1,22.8,23.6,24.2,24.8,25.7,26.8,27.5,27.9,27.1,27.5,27.8,28.1,28.1,28.2,NaN
+Germany,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31,NaN,33,NaN,36,NaN,38,NaN,40,NaN,42,NaN,NaN,NaN,NaN
+Germany,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14,15,15,16,16,17,17,18,19,19,NaN,NaN,NaN,NaN,NaN
+Ghana,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0937,NaN,NaN,NaN,NaN,NaN
 Ghana,female,Proportion of seats held by women in national parliaments (%),9,9,9,NaN,9,9,9,10.9,10.9,10.9,10.9,7.9,8.3,8.3,8.3,NaN,10.9,10.9,10.9,10.9,12.7,12.7
+Ghana,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.2,NaN,NaN,NaN,NaN,NaN,NaN,40.8,NaN,41.8,NaN,NaN,NaN
 Ghana,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.8,NaN,NaN,15.9,NaN,21.6,NaN,18.4,NaN,22.5,23.1,17.4,NaN,NaN
+Ghana,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,26.7,NaN,33.1,NaN,NaN,NaN
+Ghana,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ghana,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Greece,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0969,NaN,NaN,NaN,NaN,NaN
 Greece,female,Proportion of seats held by women in national parliaments (%),6.3,6.3,6.3,8.7,8.7,8.7,8.7,14,13,13,14.7,14.7,17.3,17.3,18.7,21,21,21,19.7,19.7,18.3,18.7
+Greece,female,Proportion of women in managerial positions,NaN,NaN,NaN,25.1,24.6,24.9,26.1,26,26.6,26.9,28.2,28.5,30.1,30.2,23.6,26,28.8,28.3,25.7,25.5,29.8,NaN
 Greece,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.6,NaN,NaN,11.8,NaN,31.3,NaN,5.6,NaN,5.3,10,21.1,NaN,NaN
+Greece,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,19.9,18.6,15.5,20.7,21.2,23.7,22.5,22.8,26.3,27,26.9,22,22.2,25.8,27.8,24.7,24.7,29.7,NaN
+Greece,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,49,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Greece,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Grenada,female,Proportion of seats held by women in national parliaments (%),20,20,NaN,26.7,26.7,26.7,26.7,26.7,26.7,26.7,26.7,13.3,13.3,13.3,13.3,13.3,33.3,33.3,33.3,33.3,33.3,46.7
+Grenada,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Grenada,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,40,NaN,NaN,50,NaN,18.8,NaN,21.4,NaN,30.8,46.2,31.3,NaN,NaN
+Grenada,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Grenada,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Grenada,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,11,14,14,14,14,14,15,15,NaN,NaN,NaN,NaN
+Guatemala,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0475,NaN,NaN,NaN,NaN,NaN
 Guatemala,female,Proportion of seats held by women in national parliaments (%),12.5,12.5,7.1,8.8,8.8,8.8,8.2,8.2,8.2,8.2,12,12,12,12,13.3,13.3,13.3,13.3,13.9,13.9,12.7,12.7
+Guatemala,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,30.7,26.5,NaN,NaN,NaN,NaN,NaN,57.5,58.2,44.9,35,34.5,31.8,44.6,NaN,NaN
 Guatemala,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,NaN,NaN,6.7,NaN,0,NaN,0,NaN,26.7,20,18.8,NaN,NaN
+Guatemala,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,25.5,46.6,NaN,NaN,NaN,NaN,NaN,33.2,60.9,35.6,29.4,35.4,34.6,NaN,NaN,NaN
+Guatemala,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34,36,35,35,37,NaN,NaN,43,NaN,NaN,NaN,NaN
+Guatemala,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,11,10,11,11,12,11,12,12,13,13,NaN,NaN,NaN,NaN
 Guinea,female,Proportion of seats held by women in national parliaments (%),7,8.8,8.8,8.8,8.8,NaN,19.3,19.3,19.3,19.3,19.3,NaN,NaN,NaN,NaN,NaN,NaN,21.9,21.9,21.9,21.9,21.9
 Guinea,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15.4,NaN,NaN,15.8,NaN,16.1,NaN,12.9,NaN,14.7,14.7,23.3,NaN,NaN
 Guinea-Bissau,female,Proportion of seats held by women in national parliaments (%),10,10,NaN,7.8,7.8,7.8,NaN,14,14,14,14,10,10,10,10,14,14,13.7,13.7,13.7,13.7,13.7
 Guinea-Bissau,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,37.5,NaN,NaN,25,NaN,23.5,NaN,18.8,NaN,NaN,31.3,0,NaN,NaN
+Guyana,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2668,NaN,NaN,NaN,NaN,NaN
 Guyana,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,18.5,18.5,18.3,20,20,30.8,30.8,29,29,30,30,30,31.3,31.3,31.3,31.3,30.4,30.4,31.9,31.9
+Guyana,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,25.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,37.9,NaN
 Guyana,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22.2,NaN,NaN,26.3,NaN,31.3,NaN,29.4,NaN,27.8,29.4,16.7,NaN,NaN
+Guyana,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35.4,NaN
+Guyana,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,51,50,52,43,38,42,56,NaN,NaN,NaN
+Guyana,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24,23,24,25,NaN,29,NaN,NaN,NaN
 Haiti,female,Proportion of seats held by women in national parliaments (%),3.6,3.6,3.6,NaN,3.6,3.6,3.6,3.6,3.6,2,4.1,4.1,4.1,11.1,4.2,4.2,4.2,4.2,4.2,0,2.5,2.5
+Haiti,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,24,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Haiti,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,NaN,NaN,11.1,NaN,22.2,NaN,16.7,NaN,35,20,NaN,NaN,NaN
+Haiti,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Haiti,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Haiti,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Honduras,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.128,NaN,NaN,NaN,NaN,NaN
 Honduras,female,Proportion of seats held by women in national parliaments (%),NaN,9.4,9.4,9.4,9.4,5.5,5.5,5.5,23.4,23.4,23.4,23.4,18,18,19.5,19.5,19.5,25.8,25.8,25.8,25.8,21.1
+Honduras,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,57.7,56.8,57.5,58.8,60.9,56.2,57.1,59.5,61.3,59.9,49.1,47,48.4,NaN
 Honduras,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,NaN,NaN,35.7,NaN,17.6,NaN,17.6,17.4,27.3,NaN,NaN
+Honduras,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33.2,33.8,33.8,33.3,34.3,35.5,31.6,35.8,36.2,42.3,42.4,41.1,41,NaN
+Honduras,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,52,NaN,NaN,NaN,53,NaN,NaN,NaN
+Honduras,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11,12,9,NaN,10,NaN,NaN,NaN
+Hungary,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0574,NaN,NaN,NaN,NaN,NaN
 Hungary,female,Proportion of seats held by women in national parliaments (%),11.4,8.3,8.3,8.3,8.3,9.1,9.8,9.1,9.1,10.4,11.1,11.1,11.1,9.1,8.8,8.8,8.8,10.1,10.1,10.1,10.1,12.6
+Hungary,female,Proportion of women in managerial positions,NaN,NaN,NaN,33.5,35.4,35.7,34.2,33.7,34.8,36.6,35.4,36.5,36.2,36.5,40.4,38.9,40.8,39.8,40.5,39.4,39.4,NaN
 Hungary,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.8,NaN,NaN,21.4,NaN,0,NaN,10,NaN,11.1,0,0,NaN,NaN
+Hungary,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,34.2,37.7,37.9,37.2,36.7,39.4,40.9,39,40.8,39.9,40,38.2,36.3,38.3,37.6,39.1,37.7,37.6,NaN
+Hungary,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,71,70,70,70,70,69,69,69,69,68,69,69,NaN,NaN,NaN
+Hungary,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Iceland,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.7544,NaN,NaN,NaN,NaN,NaN
+Iceland,female,Proportion of seats held by women in national parliaments (%),25.4,25.4,34.9,34.9,34.9,34.9,30.2,30.2,33.3,33.3,33.3,33.3,42.9,42.9,39.7,39.7,39.7,39.7,41.3,47.6,47.6,38.1
+Iceland,female,Proportion of women in managerial positions,NaN,NaN,NaN,29,28.9,29.4,37,33.6,27.4,29.4,29.7,32.9,33.6,34.3,39.8,39.9,37.6,37.2,38.2,34.2,32.4,NaN
+Iceland,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.3,NaN,NaN,36.4,NaN,45.5,NaN,50,NaN,37.5,44.4,40,NaN,NaN
+Iceland,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,30.4,30.2,32.3,40,38.1,30,34,33.1,37,38.4,37.1,39.1,38.2,37.9,38.2,39.5,34.8,33,NaN
+Iceland,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,26,30,30,30,30,30,NaN,NaN,NaN,42,NaN,NaN,NaN,NaN,NaN
+Iceland,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,11,12,13,15,16,NaN,NaN,NaN
+India,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3852,NaN,NaN,NaN,NaN,NaN
 India,female,Proportion of seats held by women in national parliaments (%),7.2,8.1,8.4,9,8.8,8.8,8.8,8.3,8.3,8.3,9.1,9.1,10.8,10.8,11,11,11,11.4,12,12,11.8,11.8
+India,female,Proportion of women in managerial positions,NaN,NaN,NaN,14,NaN,NaN,NaN,NaN,15.2,NaN,NaN,NaN,NaN,12.2,NaN,12.9,NaN,NaN,NaN,NaN,NaN,NaN
 India,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.4,NaN,NaN,10.3,NaN,10,NaN,9.8,NaN,9.3,22.2,18.5,NaN,NaN
+India,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.3,NaN,13,NaN,NaN,NaN,NaN,NaN,NaN
+India,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+India,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3,3,4,4,4,4,5,6,6,7,NaN,NaN,NaN,NaN,NaN
+Indonesia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1334,NaN,NaN,NaN,NaN,NaN
 Indonesia,female,Proportion of seats held by women in national parliaments (%),11.4,11.4,NaN,8,8,8,8,11.3,11.3,11.3,11.6,11.6,17.9,18,18.2,18.6,18.6,16.9,17.1,17.1,19.8,19.8
+Indonesia,female,Proportion of women in managerial positions,NaN,NaN,NaN,32.9,17.3,15.4,13.9,11.7,12.1,21.8,19.7,21.3,19.2,20.9,NaN,19.3,21.6,23.5,22.4,NaN,27.5,NaN
 Indonesia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.8,NaN,NaN,10.8,NaN,14.3,NaN,11.4,NaN,11.8,22.9,25.7,NaN,NaN
+Indonesia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15.8,16.4,18.1,19.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Indonesia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Indonesia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Iran, Islamic Rep.",female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0346,NaN,NaN,NaN,NaN,NaN
 "Iran, Islamic Rep.",female,Proportion of seats held by women in national parliaments (%),4.9,4.9,4.9,3.4,3.4,4.1,4.1,4.1,4.1,4.1,4.1,2.8,2.8,2.8,2.8,3.1,3.1,3.1,3.1,5.9,5.9,5.9
+"Iran, Islamic Rep.",female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.2,14.6,13.3,13.3,11.8,14.6,NaN,NaN,NaN,18.2,16.4,17.3,19,NaN
 "Iran, Islamic Rep.",female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.7,NaN,NaN,3.2,NaN,3,NaN,9.1,NaN,10,10,9.7,NaN,NaN
+"Iran, Islamic Rep.",female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Iran, Islamic Rep.",female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Iran, Islamic Rep.",female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Iraq,female,Proportion of seats held by women in national parliaments (%),6.4,6.4,6.4,7.6,7.6,7.6,NaN,NaN,NaN,25.5,25.5,25.5,25.5,25.2,25.2,25.2,25.2,25.3,26.5,26.5,25.3,25.5
+Iraq,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.8,NaN,NaN,NaN,NaN,21.8,NaN,NaN,NaN,NaN,NaN,NaN
 Iraq,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.8,NaN,NaN,10.3,NaN,10.3,NaN,3.8,NaN,3.7,6.1,10.5,NaN,NaN
+Iraq,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Iraq,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Iraq,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,NaN,NaN,NaN,NaN,NaN
+Ireland,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.4115,NaN,NaN,NaN,NaN,NaN
+Ireland,female,Proportion of seats held by women in national parliaments (%),12,12,12,12,12,13.3,13.3,13.3,13.3,13.3,13.3,13.3,13.9,13.9,15.1,15.1,15.7,15.7,16.3,22.2,22.2,22.2
+Ireland,female,Proportion of women in managerial positions,NaN,NaN,NaN,26.3,27.5,27.3,28.7,28.7,30.3,30.6,38.7,40,39.6,39.1,33.5,32.8,32.9,33.4,33.8,35.3,35.9,NaN
+Ireland,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21.4,NaN,NaN,21.4,NaN,21.4,NaN,14.3,NaN,14.3,28.6,26.7,NaN,NaN
+Ireland,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,35.2,39.9,38.7,40.8,39.7,43.6,41.4,40.6,42.6,41.3,40.9,30.3,30.4,30.3,30.8,29.5,31.1,31.3,NaN
+Ireland,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24,26,26,NaN,NaN,NaN,NaN,NaN,NaN
+Ireland,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,NaN,NaN,NaN,NaN,NaN,NaN
+Israel,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1643,NaN,NaN,NaN,NaN,NaN
+Israel,female,Proportion of seats held by women in national parliaments (%),7.5,7.5,11.7,12.5,13.3,14.2,15,15,15,14.2,14.2,14.2,18.3,19.2,20,20,22.5,22.5,26.7,26.7,27.5,27.5
+Israel,female,Proportion of women in managerial positions,NaN,NaN,NaN,27.2,27.1,26.9,29.6,28.7,27.6,30.1,29.7,32.1,31.2,34.8,35.5,31.8,32.7,32.8,32.2,34.1,34.5,NaN
+Israel,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.7,NaN,NaN,12,NaN,6.7,NaN,10.3,NaN,18.2,18.2,19,NaN,NaN
+Israel,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Israel,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,32,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Israel,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Italy,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1912,NaN,NaN,NaN,NaN,NaN
 Italy,female,Proportion of seats held by women in national parliaments (%),11.1,11.1,11.1,11.1,9.8,9.8,11.5,11.5,11.5,17.3,17.3,21.3,21.3,21.3,21.6,21.4,31.4,31.4,31,31,31,35.7
+Italy,female,Proportion of women in managerial positions,NaN,NaN,NaN,14.3,18.8,20.2,20.8,33.3,32.5,33,33.7,33.4,33.8,32.9,25.1,26,27,26.6,26.6,27.7,27.5,NaN
 Italy,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8.3,NaN,NaN,24,NaN,21.7,NaN,16.7,NaN,30,43.8,27.8,NaN,NaN
+Italy,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.8,19.7,21.8,22,21.6,21.6,21.2,21.6,22.2,22,21.9,21.8,22,22.3,NaN
+Italy,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,23,23,26,28,31,34,50,52,52,52,NaN,NaN,NaN
+Italy,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6,6,7,NaN,NaN,NaN,NaN,NaN
+Jamaica,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1345,NaN,NaN,NaN,NaN,NaN
 Jamaica,female,Proportion of seats held by women in national parliaments (%),11.7,13.6,13.3,13.3,13.3,NaN,11.7,11.7,11.7,11.7,13.3,13.3,13.3,13.3,12.7,12.7,12.7,12.7,12.7,17.5,17.5,17.5
+Jamaica,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,56.7,NaN
 Jamaica,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.6,NaN,NaN,11.1,NaN,12.5,NaN,20,NaN,20,20,16.7,NaN,NaN
+Jamaica,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Jamaica,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,53,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Jamaica,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Japan,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0603,NaN,NaN,NaN,NaN,NaN
+Japan,female,Proportion of seats held by women in national parliaments (%),4.6,4.6,4.6,7.3,7.3,7.3,7.1,7.1,9,9.4,9.4,9.4,11.3,11.3,10.8,7.9,8.1,8.1,9.5,9.5,9.3,10.1
+Japan,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.7,10.6,11.4,11.1,11.2,11.3,12.5,13,13.2,NaN
+Japan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.5,NaN,NaN,11.8,NaN,11.8,NaN,11.8,NaN,11.1,22.2,15.8,NaN,NaN
+Japan,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Japan,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,14,14,15,15,16,17,17,18,18,19,NaN,NaN,NaN,NaN
+Japan,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,6,6,7,7,7,8,NaN,NaN,NaN,NaN
+Jordan,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0607,NaN,NaN,NaN,NaN,NaN
 Jordan,female,Proportion of seats held by women in national parliaments (%),0,0,0,0,1.3,1.3,5.5,5.5,5.5,5.5,6.4,6.4,6.4,10.8,10.8,10.8,12.2,12,12,15.4,15.4,15.4
 Jordan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.7,NaN,NaN,14.8,NaN,6.9,NaN,6.7,NaN,11.1,11.1,7.1,NaN,NaN
+Kazakhstan,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1458,NaN,NaN,NaN,NaN,NaN
 Kazakhstan,female,Proportion of seats held by women in national parliaments (%),13.4,13.4,10.8,10.4,10.4,10.4,10.4,10.4,10.4,10.4,15.9,15.9,17.8,17.8,17.8,24.3,24.3,25.2,26.2,27.1,27.1,27.1
+Kazakhstan,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,33,33.8,34.2,38,35.6,35.8,36.8,38.4,38.8,37.2,38.5,39.8,38.3,NaN,37.1,NaN,NaN,NaN
 Kazakhstan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.6,NaN,NaN,5.6,NaN,5,NaN,15.8,NaN,20,13.3,5.6,NaN,NaN
+Kazakhstan,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kazakhstan,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,43,NaN,NaN,NaN,NaN,NaN
+Kazakhstan,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,9,9,9,9,9,NaN,NaN,NaN,NaN,NaN
+Kenya,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1157,NaN,NaN,NaN,NaN,NaN
 Kenya,female,Proportion of seats held by women in national parliaments (%),3,3.6,3.6,3.6,3.6,3.6,7.1,7.1,7.1,7.3,7.2,9.8,9.8,9.8,9.8,9.8,18.6,19.1,19.7,19.7,21.8,21.8
+Kenya,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Kenya,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.3,NaN,NaN,NaN,NaN,15,NaN,15.4,NaN,33.3,30,22.7,NaN,NaN
+Kenya,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kenya,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,43,43,NaN,NaN,NaN,NaN
+Kenya,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,10,9,11,12,13,13,NaN,NaN,NaN
+Kuwait,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.037,NaN,NaN,NaN,NaN,NaN
 Kuwait,female,Proportion of seats held by women in national parliaments (%),0,0,0,0,0,0,0,0,1.5,1.5,1.5,3.1,7.7,7.7,7.7,6.2,6.2,1.5,1.5,1.5,3.1,3.1
+Kuwait,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14,13.6,NaN,NaN
 Kuwait,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,6.7,NaN,6.7,NaN,6.3,NaN,6.7,6.7,6.7,NaN,NaN
+Kuwait,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kuwait,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kuwait,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kyrgyzstan,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1383,NaN,NaN,NaN,NaN,NaN
 Kyrgyzstan,female,Proportion of seats held by women in national parliaments (%),1.4,1.4,1.4,2.3,10,10,10,10,0,0,25.6,25.6,25.6,23.3,23.3,23.3,23.3,23.3,19.2,19.2,19.2,19.2
+Kyrgyzstan,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,27.7,25.8,25.2,30.1,35.2,NaN,NaN,30.6,32.4,29.1,32.3,27.5,33.4,35.7,34.9,36.2,NaN
 Kyrgyzstan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.5,NaN,NaN,18.8,NaN,10,NaN,10.5,NaN,14.3,15,14.3,NaN,NaN
+Kyrgyzstan,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kyrgyzstan,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,29,29,29,32,NaN,35,NaN,NaN,NaN
+Kyrgyzstan,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lao People's Democratic Republic,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1355,NaN,NaN,NaN,NaN,NaN
 Lao People's Democratic Republic,female,Proportion of seats held by women in national parliaments (%),NaN,21.2,21.2,21.2,21.2,22.9,22.9,22.9,22.9,25.2,25.2,25.2,25.2,25.2,25,25,25,25,25,27.5,27.5,27.5
+Lao People's Democratic Republic,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31.8,NaN,NaN,NaN,NaN,NaN,NaN,59,NaN
 Lao People's Democratic Republic,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,11.1,NaN,10.3,NaN,11.5,NaN,11.5,10.3,7.4,NaN,NaN
+Lao People's Democratic Republic,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.4,NaN
+Lao People's Democratic Republic,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lao People's Democratic Republic,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Latvia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2875,NaN,NaN,NaN,NaN,NaN
 Latvia,female,Proportion of seats held by women in national parliaments (%),9,9,17,17,17,18,21,21,21,19,20,20,22,20,23,23,23,18,18,18,16,16
+Latvia,female,Proportion of women in managerial positions,NaN,NaN,NaN,37.1,38.4,40.3,39.3,43.6,43.3,40.2,42.5,42.5,44.3,42.1,45.5,45.8,43.8,44.1,44.3,47.3,46.3,NaN
 Latvia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.5,NaN,NaN,22.2,NaN,21.4,NaN,30.8,NaN,30.8,23.1,23.1,NaN,NaN
+Latvia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,37.1,40,38.1,45.4,42.5,42,40.9,42.1,41.3,41.5,39.1,44.3,44.6,42.2,42.1,44.3,46.3,44.1,NaN
+Latvia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,73,73,72,72,72,76,78,78,78,79,79,79,NaN,NaN,NaN
+Latvia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35,34,36,37,NaN,NaN,NaN
+Lebanon,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0099,NaN,NaN,NaN,NaN,NaN
 Lebanon,female,Proportion of seats held by women in national parliaments (%),2.3,2.3,2.3,2.3,2.3,2.3,2.3,2.3,4.7,4.7,4.7,4.7,3.1,3.1,3.1,3.1,3.1,3.1,3.1,3.1,3.1,4.7
+Lebanon,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.2,NaN,NaN,8.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Lebanon,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.9,NaN,NaN,4.5,NaN,6.9,NaN,0,NaN,0,4.3,3.4,NaN,NaN
+Lebanon,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lebanon,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lebanon,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,2,4,NaN,NaN,NaN,NaN,NaN
+Lesotho,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.257,NaN,NaN,NaN,NaN,NaN
 Lesotho,female,Proportion of seats held by women in national parliaments (%),4.6,3.8,3.8,3.8,3.8,NaN,11.7,11.7,11.7,11.7,23.5,25,24.2,24.2,24.2,26.7,26.7,26.7,25,25,22.9,22.1
+Lesotho,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36.9,NaN,36.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Lesotho,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.8,NaN,NaN,31.6,NaN,31.6,NaN,36.8,NaN,21.7,21.7,18.2,NaN,NaN
+Lesotho,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lesotho,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lesotho,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Liberia,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,7.8,7.8,7.8,7.8,5.3,12.5,12.5,12.5,12.5,12.5,12.5,9.6,11,11,11,11,11,12.3,12.3
+Liberia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Liberia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13.6,NaN,NaN,20,NaN,30.4,NaN,22.7,NaN,21.1,20,15.8,NaN,NaN
+Liberia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Liberia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Liberia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lithuania,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1826,NaN,NaN,NaN,NaN,NaN
 Lithuania,female,Proportion of seats held by women in national parliaments (%),17.5,17.5,17.5,10.6,10.6,10.6,10.6,22,22,24.8,22.7,17.7,19.1,19.1,19.1,24.5,24.1,24.1,23.4,21.3,21.3,21.3
+Lithuania,female,Proportion of women in managerial positions,NaN,NaN,NaN,42.7,46.4,47,40.8,45.4,43.2,40.5,38.1,40.2,39.2,41.1,39.1,38.9,39.6,NaN,39.6,39.4,39.3,NaN
 Lithuania,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15.4,NaN,NaN,23.1,NaN,14.3,NaN,14.3,NaN,7.1,21.4,21.4,NaN,NaN
+Lithuania,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,42.5,50,48.5,41.5,46.8,45,42.8,40.3,41.5,40.3,42,36.5,35.3,36.5,35.4,38.1,38.8,37.9,NaN
+Lithuania,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,53,54,54,55,55,56,57,58,61,60,60,61,NaN,NaN,NaN
+Lithuania,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20,21,23,24,25,26,27,29,31,32,35,36,NaN,NaN,NaN
+Luxembourg,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1757,NaN,NaN,NaN,NaN,NaN
+Luxembourg,female,Proportion of seats held by women in national parliaments (%),20,20,16.7,16.7,16.7,16.7,16.7,23.3,23.3,23.3,23.3,23.3,20,20,25,21.7,23.3,28.3,28.3,28.3,28.3,28.3
+Luxembourg,female,Proportion of women in managerial positions,NaN,NaN,NaN,26.9,30.2,22.1,28.8,26.7,23.8,26.8,21.2,27.5,19.1,24.7,24,18,14.9,22.5,18.2,17.7,18.8,NaN
+Luxembourg,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,14.3,NaN,26.7,NaN,26.7,NaN,26.7,26.7,20,NaN,NaN
+Luxembourg,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,24.1,11.1,15,11.2,12.2,9.4,21.2,9.7,15.3,15.4,19.6,18.3,17,14.6,17.9,14,14.9,16.1,NaN
+Luxembourg,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Luxembourg,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,NaN,NaN,10,11,11,11,11,11,NaN,NaN,NaN,NaN
 "Macao SAR, China",female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Macao SAR, China",female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 "Macao SAR, China",female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Macao SAR, China",female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Macao SAR, China",female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Macao SAR, China",female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18,19,19,19,19,19,19,19,NaN,NaN,NaN
+Madagascar,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1547,NaN,NaN,NaN,NaN,NaN
 Madagascar,female,Proportion of seats held by women in national parliaments (%),3.7,NaN,8,8,8,NaN,3.8,6.9,6.9,6.9,7.9,7.9,NaN,12.5,12.5,17.5,17.5,20.5,20.5,20.5,19.2,19.2
+Madagascar,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22.1,NaN,NaN,NaN,NaN,36.6,NaN,25.1,NaN,NaN,31.8,NaN,NaN,NaN
 Madagascar,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.9,NaN,NaN,12.5,NaN,17.2,NaN,26.5,NaN,31.3,20,17.9,NaN,NaN
+Madagascar,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24.5,NaN,NaN,NaN,NaN,NaN,NaN
+Madagascar,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,51,NaN,NaN,NaN
+Madagascar,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4,NaN,NaN,NaN
+Malawi,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.166,NaN,NaN,NaN,NaN,NaN
 Malawi,female,Proportion of seats held by women in national parliaments (%),5.6,5.6,8.3,9.3,9.3,9.3,9.3,14,13.6,13.6,13,13,20.8,20.8,22.3,22.3,22.3,16.7,16.7,16.7,16.7,16.7
+Malawi,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15.6,NaN,NaN,NaN,NaN,NaN
 Malawi,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,23.8,NaN,27.3,NaN,21.1,NaN,32,11.1,22.2,NaN,NaN
+Malawi,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Malawi,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Malawi,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Malaysia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.053,NaN,NaN,NaN,NaN,NaN
 Malaysia,female,Proportion of seats held by women in national parliaments (%),7.8,7.8,NaN,10.4,10.4,10.4,10.5,9.1,9.1,9.1,10,10.8,9.9,9.9,10.4,10.4,10.4,10.4,10.4,10.4,10.4,13.9
+Malaysia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,21.8,23.1,23.2,24.6,25.5,23.4,23,24.2,23.1,24.9,22.7,21.6,22.1,22.3,22.5,20.4,NaN,NaN
 Malaysia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9.1,NaN,NaN,9.4,NaN,6.7,NaN,6.5,NaN,6.3,5.7,8.3,NaN,NaN
+Malaysia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Malaysia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Malaysia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Maldives,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.089,NaN,NaN,NaN,NaN,NaN
 Maldives,female,Proportion of seats held by women in national parliaments (%),6.3,6.3,NaN,6,6,6,6,6,12,12,12,12,6.5,6.5,6.5,6.5,6.5,5.9,5.9,5.9,5.9,5.9
+Maldives,female,Proportion of women in managerial positions,NaN,NaN,NaN,15.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.5,NaN,19.6,NaN,NaN
 Maldives,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.8,NaN,NaN,14.3,NaN,6.7,NaN,21.4,NaN,17.6,12.5,17.6,NaN,NaN
+Maldives,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19.5,NaN,NaN
+Maldives,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Maldives,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,9,10,9,9,9,NaN,NaN,NaN,NaN,NaN
+Mali,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0769,NaN,NaN,NaN,NaN,NaN
 Mali,female,Proportion of seats held by women in national parliaments (%),12.2,12.2,12.2,12.2,12.2,10.2,10.2,10.2,10.2,10.2,10.2,10.2,10.2,10.2,10.2,10.2,10.2,9.5,8.8,8.8,8.8,8.8
 Mali,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.5,NaN,NaN,23.1,NaN,21.4,NaN,13.8,NaN,12.1,16.1,24.2,NaN,NaN
+Malta,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1716,NaN,NaN,NaN,NaN,NaN
 Malta,female,Proportion of seats held by women in national parliaments (%),5.8,5.8,9.2,9.2,9.2,9.2,7.7,9.2,9.2,9.2,9.2,8.7,8.7,8.7,8.7,8.7,14.3,14.3,12.9,12.9,11.9,11.9
+Malta,female,Proportion of women in managerial positions,NaN,NaN,NaN,17.6,15.3,17.7,19.1,13.1,18,18.3,18,17.1,21.3,22.7,24.2,26.2,28.1,25.7,27.1,28.7,28.5,NaN
 Malta,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15.4,NaN,NaN,15.4,NaN,25,NaN,22.2,NaN,14.3,7.1,6.3,NaN,NaN
+Malta,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,17.5,16.3,18.2,16.9,12.9,19.8,19.9,18.4,15.9,21.9,23.7,24.8,26.6,28.6,26,26.2,29,27.6,NaN
+Malta,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11,12,18,22,21,29,28,30,33,36,39,43,NaN,NaN,NaN
+Malta,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15,15,15,16,17,17,17,17,18,18,18,19,NaN,NaN,NaN
 Marshall Islands,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,9.1,9.1,9.1,9.1
 Marshall Islands,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,10,NaN,10,NaN,10,NaN,10,10,10,NaN,NaN
+Mauritania,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1201,NaN,NaN,NaN,NaN,NaN
 Mauritania,female,Proportion of seats held by women in national parliaments (%),1.3,3.8,3.8,3.8,NaN,NaN,3.7,3.7,NaN,17.9,22.1,22.1,22.1,22.1,22.1,22.1,22.1,25.2,25.2,25.2,25.2,20.3
 Mauritania,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9.1,NaN,NaN,12,NaN,23.1,NaN,11.5,NaN,13,26.9,30.8,NaN,NaN
+Mauritius,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0959,NaN,NaN,NaN,NaN,NaN
 Mauritius,female,Proportion of seats held by women in national parliaments (%),7.6,7.6,7.6,5.7,5.7,5.7,5.7,5.7,17.1,17.1,17.1,17.1,17.1,18.8,18.8,18.8,18.8,18.8,11.6,11.6,11.6,11.6
+Mauritius,female,Proportion of women in managerial positions,NaN,NaN,NaN,22,19.6,18.9,24.3,20.5,24.7,15.3,20.2,23,25.6,26.2,22.2,23,32.6,NaN,28.9,30.6,30.1,NaN
 Mauritius,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8,NaN,NaN,10,NaN,NaN,NaN,8,NaN,8.3,12,10,NaN,NaN
+Mauritius,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21.3,23.1,28.9,27.3,27.8,29.5,30.8,NaN
+Mauritius,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,55,44,55,54,54,58,58,59,61,NaN,NaN,NaN
+Mauritius,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,5,5,5,6,6,7,7,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Mexico,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2463,NaN,NaN,NaN,NaN,NaN
 Mexico,female,Proportion of seats held by women in national parliaments (%),14.2,17.4,18.2,16,16,16,22.6,22.6,24.2,22.6,23.2,23.2,27.6,26.2,26.2,36.8,36.8,37.4,42.4,42.4,42.6,48.2
+Mexico,female,Proportion of women in managerial positions,NaN,NaN,NaN,23.6,25.2,23.2,23.9,25.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35,35.4,36,36,36.7,NaN
 Mexico,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9.4,NaN,NaN,15.8,NaN,10.5,NaN,21.1,NaN,17.6,17.6,15.8,NaN,NaN
+Mexico,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34.9,35.3,34.8,35.2,36.4,NaN
+Mexico,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33,35,35,32,35,36,NaN,NaN,NaN
+Mexico,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,12,11,12,14,13,14,NaN,NaN,NaN
+Moldova,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1043,NaN,NaN,NaN,NaN,NaN
 Moldova,female,Proportion of seats held by women in national parliaments (%),4.8,NaN,8.9,7.9,12.9,12.9,12.9,15.8,21.8,21.8,21.8,21.8,23.8,18.8,19.8,19.8,19.8,17.8,21.8,21.8,22.8,22.8
+Moldova,female,Proportion of women in managerial positions,NaN,NaN,NaN,33.2,37.4,40.2,39.5,39,38.9,38.9,40.2,38,38.7,36.4,39.4,44.1,39.2,42.9,46.4,46.8,42,NaN
 Moldova,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.1,NaN,NaN,10.5,NaN,5.3,NaN,5.6,NaN,27.8,27.8,22.2,NaN,NaN
+Moldova,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Moldova,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33,34,36,37,37,37,NaN,NaN,45,NaN,NaN,NaN,NaN
+Moldova,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,NaN,NaN,9,14,NaN,NaN,NaN,NaN
+Mongolia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0734,NaN,NaN,NaN,NaN,NaN
 Mongolia,female,Proportion of seats held by women in national parliaments (%),7.9,7.9,7.9,10.5,10.5,10.5,10.5,6.8,6.7,6.6,6.6,4.2,3.9,3.9,3.9,14.9,14.9,14.9,14.5,17.1,17.1,17.1
+Mongolia,female,Proportion of women in managerial positions,NaN,NaN,NaN,30.2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,42.5,38.7,37.6,38.8,41.9,41.3,38,40.6,40.8,42.5,NaN
 Mongolia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.9,NaN,NaN,20,NaN,7.1,NaN,7.1,NaN,16.7,11.1,13.3,NaN,NaN
+Mongolia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,41.6,38.3,37.9,37.9,38.7,37.3,34.2,37.8,36.7,40,NaN
+Mongolia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Mongolia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Montenegro,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8.6,11.1,11.1,11.1,11.1,12.3,17.3,16,17.3,17.3,23.5,23.5,23.5
+Montenegro,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19.7,NaN,31.4,23.4,24.5,30.2,31,28.5,25.4,26.7,22.3,29.4,22.1,NaN
 Montenegro,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.3,NaN,5,NaN,5.9,NaN,16.7,16.7,20,NaN,NaN
+Montenegro,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36.1,24.8,22.7,24.6,17.6,24.9,25.4,NaN
+Montenegro,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,50,55,56,56,56,57,58,NaN,NaN,NaN
+Montenegro,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7,8,8,9,9,9,NaN,NaN,NaN
+Morocco,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.072,NaN,NaN,NaN,NaN,NaN
 Morocco,female,Proportion of seats held by women in national parliaments (%),0.6,0.6,0.6,0.6,0.6,10.8,10.8,10.8,10.8,10.8,10.5,10.5,10.5,10.5,17,17,17,17,17,20.5,20.5,20.5
+Morocco,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.8,12.4,11.9,12.1,12.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Morocco,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.9,NaN,NaN,19.2,NaN,11.1,NaN,3.3,NaN,NaN,15.8,13,NaN,NaN
+Morocco,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Morocco,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Morocco,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,NaN,NaN,5,NaN,NaN,NaN,NaN,NaN,NaN
+Mozambique,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3533,NaN,NaN,NaN,NaN,NaN
 Mozambique,female,Proportion of seats held by women in national parliaments (%),25.2,25.2,NaN,30,30,30,30,34.8,34.8,34.8,34.8,34.8,39.2,39.2,39.2,39.2,39.2,NaN,39.6,39.6,39.6,39.6
+Mozambique,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24.3,NaN,NaN,NaN
 Mozambique,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,NaN,NaN,25.9,NaN,25.9,NaN,27.6,NaN,28.6,28.6,23.8,NaN,NaN
+Mozambique,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22.2,NaN,NaN,NaN
+Mozambique,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Mozambique,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Myanmar,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4.3,3.5,6,6,5.6,12.7,9.9,10.2,10.2
+Myanmar,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.4,NaN,35.6,NaN
 Myanmar,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,NaN,NaN,NaN,2.6,5.3,5,NaN,NaN
+Myanmar,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.3,NaN,31.5,NaN
+Myanmar,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Myanmar,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3,3,4,4,6,NaN,NaN,NaN
+Namibia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1727,NaN,NaN,NaN,NaN,NaN
 Namibia,female,Proportion of seats held by women in national parliaments (%),22.2,22.2,22.2,25,25,25,26.4,25,26.9,26.9,26.9,26.9,26.9,24.4,24.4,24.4,24.4,NaN,41.3,41.3,41.3,46.2
+Namibia,female,Proportion of women in managerial positions,NaN,NaN,NaN,30.2,NaN,NaN,NaN,36,NaN,NaN,NaN,NaN,NaN,36.6,NaN,29.7,42.6,44,NaN,39.9,NaN,NaN
 Namibia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19,NaN,NaN,25,NaN,24,NaN,22.7,NaN,21.7,21.7,24,NaN,NaN
+Namibia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25.6,48.5,46.7,NaN,48.6,NaN,NaN
+Namibia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Namibia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Nepal,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1989,NaN,NaN,NaN,NaN,NaN
 Nepal,female,Proportion of seats held by women in national parliaments (%),3.4,3.4,5.9,5.9,5.9,5.9,5.9,5.9,5.9,5.9,17.3,33.2,33.2,33.2,33.2,33.2,33.2,29.5,29.5,29.6,29.6,32.7
+Nepal,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Nepal,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7.4,NaN,NaN,20,NaN,7.7,NaN,15.4,NaN,NaN,13.6,3.7,NaN,NaN
+Nepal,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Nepal,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Nepal,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Netherlands,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3191,NaN,NaN,NaN,NaN,NaN
+Netherlands,female,Proportion of seats held by women in national parliaments (%),31.3,36,36,36,36,34,36.7,36.7,36.7,36.7,39.3,41.3,42,40.7,40.7,38.7,38.7,38.7,37.3,37.3,36,36
+Netherlands,female,Proportion of women in managerial positions,NaN,NaN,NaN,25.3,26.2,25.4,25.7,25.4,25.5,26.7,28,28.1,28.5,28.6,29.3,28.8,24.6,25.5,26,25.4,26.6,NaN
+Netherlands,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36,NaN,NaN,33.3,NaN,23.5,NaN,33.3,NaN,46.7,46.7,37.5,NaN,NaN
+Netherlands,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,21.5,22.4,21.7,21.4,22.3,22.8,25.2,27,26.7,26.5,27.1,27.9,28.3,23.1,24.1,24.5,24.4,26,NaN
+Netherlands,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,48,49,50,51,52,53,54,56,56,56,NaN,NaN,NaN
+Netherlands,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19,20,20,28,29,29,29,30,30,30,NaN,NaN,NaN
 New Caledonia,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 New Caledonia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+New Zealand,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3703,NaN,NaN,NaN,NaN,NaN
+New Zealand,female,Proportion of seats held by women in national parliaments (%),29.2,29.2,29.2,30.8,30.8,29.2,28.3,28.3,32.2,32.2,33.1,33.6,33.6,33.6,32.2,32.2,32.2,29.8,31.4,31.4,34.2,38.3
+New Zealand,female,Proportion of women in managerial positions,NaN,NaN,NaN,38.2,38.6,38.6,36.4,36.3,36.5,39.9,40,40,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+New Zealand,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.1,NaN,NaN,32.1,NaN,28.6,NaN,28.6,NaN,29.6,33.3,37,NaN,NaN
+New Zealand,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+New Zealand,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+New Zealand,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16,16,17,17,18,18,18,18,NaN,NaN,NaN,NaN,NaN
+Nicaragua,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.4889,NaN,NaN,NaN,NaN,NaN
 Nicaragua,female,Proportion of seats held by women in national parliaments (%),10.8,10.8,9.7,9.7,NaN,20.7,20.7,20.7,20.7,15.2,18.5,18.5,20.7,20.7,40.2,40.2,40.2,42.4,41.3,41.3,45.7,45.7
+Nicaragua,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,40.2,38.5,40.3,41,NaN,NaN,NaN,NaN,NaN,33.5,NaN,35.2,NaN,NaN,NaN,NaN
 Nicaragua,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,33.3,NaN,38.5,NaN,46.2,NaN,57.1,47.1,52.9,NaN,NaN
+Nicaragua,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,49.7,NaN,53.7,NaN,NaN,NaN,NaN
+Nicaragua,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,63,56,62,73,47,50,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Nicaragua,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Niger,female,Proportion of seats held by women in national parliaments (%),1.2,1.2,NaN,1.2,1.2,1.2,1.2,12.4,12.4,12.4,12.4,12.4,9.7,NaN,13.3,13.3,13.3,13.3,13.3,14.6,17,17
 Niger,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.1,NaN,NaN,25.8,NaN,22.6,NaN,26.1,NaN,12.9,12.9,16.2,NaN,NaN
+Nigeria,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.119,NaN,NaN,NaN,NaN,NaN
 Nigeria,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,3.4,3.4,3.4,4.9,4.7,6.4,6.1,7,7,7,7,6.8,6.7,6.7,6.7,5.6,5.6,5.6,5.6
+Nigeria,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33.1,NaN,30.3,NaN,NaN,21.5,NaN,NaN
 Nigeria,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,NaN,NaN,22.7,NaN,9.7,NaN,28.1,NaN,25,24.1,12,NaN,NaN
+Nigeria,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Nigeria,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20,NaN,NaN,NaN,NaN,NaN
+Nigeria,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,NaN,NaN,NaN,NaN,NaN
+North Macedonia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2007,NaN,NaN,NaN,NaN,NaN
 North Macedonia,female,Proportion of seats held by women in national parliaments (%),3.3,3.3,7.5,6.7,6.7,17.5,18.3,19.2,19.2,28.3,29.2,31.7,32.5,32.5,30.9,32.5,34.1,33.3,33.3,33.3,34.2,38.3
+North Macedonia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,19,26.8,28,28.5,27.2,29.3,28.5,26.8,27.9,27.9,23.1,27.3,29,24,25.3,24,NaN
 North Macedonia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.7,NaN,NaN,13.6,NaN,9.5,NaN,13.6,NaN,8.7,8,NaN,NaN,NaN
+North Macedonia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.6,30.8,30.2,36.9,30.7,26.3,23.3,24.7,26,23,27.3,22.5,NaN
+North Macedonia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+North Macedonia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17,13,18,NaN,NaN,NaN,NaN
+Norway,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.5616,NaN,NaN,NaN,NaN,NaN
+Norway,female,Proportion of seats held by women in national parliaments (%),36.4,36.4,36.4,36.4,35.8,36.4,36.4,38.2,37.9,37.9,36.1,36.1,39.6,39.6,39.6,39.6,39.6,39.6,39.6,39.6,39.6,41.4
+Norway,female,Proportion of women in managerial positions,NaN,NaN,NaN,25,25.2,27.5,28.4,29.2,30.4,33.2,31.6,31.5,34.1,34.4,31.4,32.2,32.9,35.5,36,37.9,38.3,NaN
+Norway,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,44.4,NaN,NaN,55.6,NaN,52.6,NaN,52.6,NaN,47.1,47.1,38.9,NaN,NaN
+Norway,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,24.7,25.6,27.7,28.2,29.7,31,34,33.3,32.6,34.6,35,31.2,31.2,31.4,33.3,33.7,35.4,36,NaN
+Norway,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35,33,33,35,36,37,36,38,38,NaN,NaN,NaN
+Norway,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18,18,19,20,22,22,24,25,27,NaN,NaN,NaN,NaN
+Oman,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0221,NaN,NaN,NaN,NaN,NaN
 Oman,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.4,2.4,2.4,0,0,0,0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2
+Oman,female,Proportion of women in managerial positions,NaN,NaN,NaN,9.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.1,NaN,NaN
 Oman,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,NaN,NaN,9.1,NaN,9.4,NaN,6.9,NaN,6.7,6.7,6.3,NaN,NaN
+Oman,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Oman,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Oman,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Pakistan,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1487,NaN,NaN,NaN,NaN,NaN
 Pakistan,female,Proportion of seats held by women in national parliaments (%),2.3,2.3,NaN,NaN,NaN,21.1,21.6,21.3,21.3,21.3,21.1,22.5,22.2,22.2,22.5,22.5,20.7,20.7,20.6,20.6,20.6,20.6
+Pakistan,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,2.9,2.4,2.4,2.1,2.1,3.4,3.4,3,2.9,3.3,3.3,NaN,3,4.2,2.9,2.9,NaN,NaN
 Pakistan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.6,NaN,NaN,3.6,NaN,7.5,NaN,10,NaN,0,0,0,NaN,NaN
+Pakistan,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7.6,6.1,5.2,5.7,6.4,5.8,NaN,4.2,NaN,NaN,NaN,NaN,NaN
+Pakistan,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Pakistan,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Palau,female,Proportion of seats held by women in national parliaments (%),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.5,12.5
+Palau,female,Proportion of women in managerial positions,NaN,NaN,NaN,26.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Palau,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.5,NaN,NaN,0,NaN,25,NaN,12.5,NaN,12.5,12.5,0,NaN,NaN
+Palau,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Palau,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Palau,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Panama,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1811,NaN,NaN,NaN,NaN,NaN
 Panama,female,Proportion of seats held by women in national parliaments (%),9.7,9.7,NaN,9.9,9.9,9.9,9.9,16.7,16.7,16.7,16.7,16.7,8.5,8.5,8.5,8.5,8.5,19.3,18.3,18.3,18.3,18.3
+Panama,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,40.4,37.6,39.5,39.6,42.7,45.1,43.6,48.1,46,47.9,46.6,45.6,41.8,42.6,44,42.5,42.7,NaN
 Panama,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,23.1,NaN,26.7,NaN,29.4,NaN,31.6,27.8,29.4,NaN,NaN
+Panama,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,45.8,46.5,40.6,43.5,NaN,NaN,NaN,NaN
+Panama,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,51,50,50,50,48,50,52,53,54,NaN,NaN,NaN
+Panama,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,10,10,11,9,12,13,NaN,NaN,NaN,NaN,NaN
 Papua New Guinea,female,Proportion of seats held by women in national parliaments (%),1.8,1.8,1.8,1.8,1.8,NaN,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,2.7,2.7,2.7,2.7,2.7,0,0
+Papua New Guinea,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Papua New Guinea,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.6,NaN,3.7,NaN,0,NaN,3.1,3.1,3.1,NaN,NaN
+Papua New Guinea,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Papua New Guinea,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Papua New Guinea,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Paraguay,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0847,NaN,NaN,NaN,NaN,NaN
 Paraguay,female,Proportion of seats held by women in national parliaments (%),2.5,NaN,2.5,2.5,2.5,2.5,8.8,10,10,10,10,12.5,12.5,12.5,12.5,12.5,17.5,15,15,15,13.8,15
+Paraguay,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,34.8,35.4,30.2,34.3,38.3,34.1,34,35.5,32,34,32.3,38.6,33.8,38.7,36.6,34.7,NaN
 Paraguay,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.8,NaN,NaN,18.9,NaN,21.7,NaN,7.1,NaN,25,7.7,15.4,NaN,NaN
+Paraguay,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Paraguay,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35,24,42,43,43,47,NaN,NaN,NaN
+Paraguay,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,11,11,7,7,7,7,8,8,NaN,NaN,NaN
+Peru,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1417,NaN,NaN,NaN,NaN,NaN
 Peru,female,Proportion of seats held by women in national parliaments (%),10.8,10.8,10.8,NaN,17.5,17.5,17.5,18.3,18.3,29.2,29.2,29.2,27.5,27.5,21.5,21.5,21.5,22.3,22.3,27.7,27.7,27.7
+Peru,female,Proportion of women in managerial positions,NaN,NaN,NaN,28.1,27,24,28.1,25.6,25.7,27.8,28.5,20.3,35.8,29,38.1,30.4,32.1,25.5,33.8,33.3,36.8,NaN
 Peru,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.8,NaN,NaN,29.4,NaN,22.2,NaN,16.7,NaN,44.4,22.2,36.8,NaN,NaN
+Peru,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Peru,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Peru,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6,7,7,8,10,11,NaN,11,12,12,14,15,NaN,NaN,NaN
+Philippines,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.376,NaN,NaN,NaN,NaN,NaN
 Philippines,female,Proportion of seats held by women in national parliaments (%),11.1,12.4,12.4,11.3,17.8,17.8,17.8,15.3,15.3,15.3,20.5,20.5,21,22.1,22.9,22.9,27.1,27.3,27.2,29.8,29.5,29.5
+Philippines,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,57.8,NaN,NaN,NaN,57.9,57.6,54.8,53.4,52.7,52.1,47.6,47.1,47,46.6,NaN,51.5,NaN
 Philippines,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,NaN,NaN,9.1,NaN,13.6,NaN,18.2,NaN,16,20,25,NaN,NaN
+Philippines,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,59.3,37.9,40.5,40.5,40.8,40.6,41.1,41.9,41.3,NaN,NaN,23.2,NaN
+Philippines,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28,31,33,33,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Philippines,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,9,10,11,12,13,13,NaN,NaN,NaN,NaN,NaN
+Poland,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1786,NaN,NaN,NaN,NaN,NaN
+Poland,female,Proportion of seats held by women in national parliaments (%),13,13,13,13,20.2,20.2,20.2,20.2,20.4,20.4,20.4,20.2,20,20,23.7,23.7,23.7,24.3,27.4,27.4,28,28
+Poland,female,Proportion of women in managerial positions,NaN,NaN,NaN,32.5,29.8,31.1,33.3,32.8,32.8,35.4,36.2,36.1,35.5,35.6,38,37.8,37.8,38.8,40.2,41.2,41.3,NaN
+Poland,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.9,NaN,NaN,26.3,NaN,27.8,NaN,22.2,NaN,16.7,27.8,22.7,NaN,NaN
+Poland,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,31.4,27.7,29.3,34,35.4,34.1,36.1,37.1,36.2,36,37.5,35.9,35,35.5,36.4,37.4,38.1,38.2,NaN
+Poland,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,63,63,63,64,64,64,64,64,64,64,64,63,NaN,NaN,NaN
+Poland,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,13,13,14,14,15,15,15,NaN,NaN,NaN
+Portugal,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1834,NaN,NaN,NaN,NaN,NaN
 Portugal,female,Proportion of seats held by women in national parliaments (%),13,13,18.7,17.4,18.7,19.1,19.1,19.1,21.3,21.3,28.3,28.3,27.4,27.4,28.7,28.7,28.7,31.3,34.8,34.8,34.8,34.8
+Portugal,female,Proportion of women in managerial positions,NaN,NaN,NaN,31.1,30.8,29.5,32.2,33.5,34.1,33,31.8,31.5,31.8,32.3,33.4,35.2,33.8,35.1,32.6,35.9,34.3,NaN
 Portugal,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.7,NaN,NaN,12.5,NaN,31.3,NaN,18.2,NaN,21.4,28.6,22.2,NaN,NaN
+Portugal,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,21.9,22.6,28.3,27.1,30.1,29.1,31.4,30.8,31.3,34.4,35.7,26.2,27.9,27.6,31.8,NaN,32.2,30.4,NaN
+Portugal,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,46,48,49,50,52,53,56,57,57,58,58,59,NaN,NaN,NaN
+Portugal,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,6,6,6,7,7,7,7,NaN,NaN,NaN,NaN
 Puerto Rico,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Puerto Rico,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Qatar,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,NaN,NaN,NaN
 Qatar,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0,0,9.8
+Qatar,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,4.7,NaN,NaN,8.1,NaN,7.3,6.8,NaN,4.4,NaN,NaN,NaN,12.2,NaN,14.7,14.9,15.1,NaN
 Qatar,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7.7,NaN,NaN,7.7,NaN,0,NaN,0,NaN,5,5,6.3,NaN,NaN
+Qatar,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Qatar,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Qatar,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Romania,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.097,NaN,NaN,NaN,NaN,NaN
 Romania,female,Proportion of seats held by women in national parliaments (%),7.3,7.3,7.3,NaN,10.7,10.7,10.7,11.4,11.2,11.2,9.4,11.4,11.4,11.4,11.2,13.3,13.3,13.5,13.7,13.7,20.7,20.7
+Romania,female,Proportion of women in managerial positions,NaN,NaN,NaN,26.8,28.5,33.3,33.2,28.9,29.2,30.2,28.2,29.5,31.3,31.1,30.8,31.1,31.3,31.7,31.5,33.6,30.4,NaN
 Romania,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.5,NaN,NaN,0,NaN,6.3,NaN,16.7,NaN,22.2,14.3,24,NaN,NaN
+Romania,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31.7,33.7,32.6,34.3,36.4,36.3,31.9,30.8,30.6,30.7,31.5,32.4,30.1,NaN
+Romania,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,72,65,65,63,63,64,63,63,NaN,NaN,NaN
+Romania,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11,11,11,12,12,13,14,14,14,NaN,NaN,NaN
+Russian Federation,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0951,NaN,NaN,NaN,NaN,NaN
 Russian Federation,female,Proportion of seats held by women in national parliaments (%),10.2,10.2,NaN,7.7,7.6,7.6,7.6,9.8,9.8,9.8,14,14,14,14,13.6,13.6,13.6,13.6,13.6,12.7,15.8,15.8
+Russian Federation,female,Proportion of women in managerial positions,NaN,NaN,NaN,35.6,36.6,37.5,38.7,38.1,39,38.9,38.7,37.1,37.4,38.6,39.5,39.1,38.4,38.1,38.7,42,41.3,NaN
 Russian Federation,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,9.5,NaN,16.7,NaN,15.8,NaN,6.7,6.5,9.7,NaN,NaN
+Russian Federation,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,40.4,39.3,NaN
+Russian Federation,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Russian Federation,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18,19,19,20,20,20,20,20,NaN,NaN,NaN,NaN
 Rwanda,female,Proportion of seats held by women in national parliaments (%),17.1,17.1,17.1,25.7,25.7,25.7,48.8,48.8,48.8,48.8,48.8,56.3,56.3,56.3,56.3,56.3,63.8,63.8,63.8,63.8,61.3,61.3
+Rwanda,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34,NaN,14.1,NaN,NaN,36.3,NaN
 Rwanda,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35.7,NaN,NaN,16.7,NaN,33.3,NaN,32,NaN,39.3,35.5,47.4,NaN,NaN
+Rwanda,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36.3,NaN
+Rwanda,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Rwanda,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15,17,19,22,28,30,30,NaN,NaN,NaN,NaN,NaN
 Saint Lucia,female,Proportion of seats held by women in national parliaments (%),11.8,11.8,11.1,11.1,NaN,11.1,11.1,11.1,11.1,0,11.1,11.1,11.1,11.1,16.7,16.7,16.7,16.7,16.7,16.7,16.7,16.7
+Saint Lucia,female,Proportion of women in managerial positions,NaN,NaN,NaN,55.4,NaN,55,59.4,52.3,50.4,46.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Saint Lucia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8.3,NaN,NaN,NaN,NaN,7.7,NaN,15.4,NaN,15.4,15.4,27.3,NaN,NaN
+Saint Lucia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Saint Lucia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Saint Lucia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Samoa,female,Proportion of seats held by women in national parliaments (%),4.1,4.1,8.2,8.2,6.1,6.1,6.1,6.1,6.1,6.1,8.2,8.2,8.2,8.2,4.1,4.1,4.1,6.1,6.1,10,10,10
+Samoa,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,28.5,NaN,NaN,NaN,NaN,30,NaN,NaN,NaN,NaN,36.3,47.3,NaN,47.3,NaN,NaN,43.1,NaN
 Samoa,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7.7,NaN,NaN,23.1,NaN,23.1,NaN,7.7,NaN,7.7,7.7,15.4,NaN,NaN
+Samoa,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,41.6,NaN,NaN,NaN,NaN,NaN,NaN
+Samoa,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Samoa,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 San Marino,female,Proportion of seats held by women in national parliaments (%),11.7,13.3,13.3,13.3,16.7,16.7,16.7,16.7,16.7,11.7,11.7,15,16.7,16.7,18.3,16.7,18.3,18.3,16.7,16.7,26.7,26.7
 San Marino,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.5,NaN,NaN,20,NaN,20,NaN,20,NaN,0,11.1,0,NaN,NaN
 Sao Tome and Principe,female,Proportion of seats held by women in national parliaments (%),7.3,7.3,9.1,9.1,9.1,NaN,9.1,9.1,9.1,7.3,1.8,7.3,7.3,18.2,18.2,18.2,18.2,18.2,18.2,18.2,18.2,18.2
+Sao Tome and Principe,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24.4,NaN,NaN,NaN,NaN,NaN,NaN
 Sao Tome and Principe,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,25,NaN,38.5,NaN,9.1,NaN,15.4,7.7,18.2,NaN,NaN
+Sao Tome and Principe,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sao Tome and Principe,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sao Tome and Principe,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Saudi Arabia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0769,NaN,NaN,NaN,NaN,NaN
 Saudi Arabia,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,19.9,19.9,19.9,19.9,19.9,19.9
+Saudi Arabia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,9.2,7.1,5.4,NaN,NaN,NaN,6.8,5.7,5.8,NaN,NaN,NaN
 Saudi Arabia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,0,NaN,0,NaN,0,NaN,0,0,0,NaN,NaN
+Saudi Arabia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Saudi Arabia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Saudi Arabia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Senegal,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3286,NaN,NaN,NaN,NaN,NaN
 Senegal,female,Proportion of seats held by women in national parliaments (%),11.7,12.1,12.1,12.1,16.7,19.2,19.2,19.2,19.2,19.2,22,22,22.7,22.7,22.7,42.7,42.7,43.3,42.7,42.7,41.8,41.8
+Senegal,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.2,NaN,NaN,NaN
 Senegal,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20.6,NaN,NaN,17.9,NaN,12.9,NaN,25,NaN,16.1,20,20,NaN,NaN
+Senegal,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Senegal,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Senegal,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Serbia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2089,NaN,NaN,NaN,NaN,NaN
 Serbia,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,20.4,21.6,21.6,21.6,22,33.2,33.2,34,34,34,34.4,34.4
+Serbia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25.9,24.8,24.9,35.4,36.2,35,NaN,32.8,29.1,31.5,29.8,29.2,29.4,30.7,NaN
 Serbia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.7,NaN,19.2,NaN,15,NaN,9.1,22.2,26.3,NaN,NaN
+Serbia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36.6,39.4,NaN,NaN,NaN,32.7,31.5,31.5,30.9,30.3,NaN
+Serbia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,71,72,69,70,70,70,NaN,NaN,NaN
+Serbia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,9,10,10,11,12,12,23,23,NaN,NaN,NaN
 Seychelles,female,Proportion of seats held by women in national parliaments (%),27.3,23.5,23.5,23.5,23.5,29.4,29.4,29.4,29.4,29.4,23.5,23.5,23.5,23.5,43.8,43.8,43.8,43.8,43.8,21.2,21.2,21.2
+Seychelles,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,40.8,NaN,NaN,49,48,45.5,46.8,NaN
 Seychelles,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.5,NaN,NaN,20,NaN,20,NaN,22.2,NaN,23.1,25,30.8,NaN,NaN
+Seychelles,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,44.9,49,43.8,44.5,NaN
+Seychelles,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Seychelles,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Sierra Leone,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,8.8,8.8,8.8,NaN,14.5,14.5,14.5,14.5,13.2,13.2,13.2,13.2,12.9,12.4,12.4,12.1,12.4,12.4,12.4,12.3
+Sierra Leone,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,37.9,NaN,NaN,NaN,NaN
 Sierra Leone,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,NaN,NaN,14.3,NaN,8,NaN,7.7,NaN,10.3,6.9,13.8,NaN,NaN
+Sierra Leone,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sierra Leone,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sierra Leone,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Singapore,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0989,NaN,NaN,NaN,NaN,NaN
 Singapore,female,Proportion of seats held by women in national parliaments (%),4.8,4.8,4.3,4.3,11.8,11.8,16,16,16,21.2,24.5,24.5,23.4,23.4,22.2,24.2,24.2,25.3,23.9,23.8,23,23
+Singapore,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,25.1,26.1,26.1,27.7,NaN,31,30.4,31.4,31.3,34.3,33.9,33.8,33.7,33.9,34,NaN,34.5,NaN
 Singapore,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,0,NaN,5,NaN,0,NaN,5.9,5.6,5.3,NaN,NaN
+Singapore,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Singapore,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,52,46,46,49,51,43,46,45,41,38,NaN,NaN,NaN
+Singapore,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15,15,15,16,16,17,17,18,18,NaN,NaN,NaN
+Slovakia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1284,NaN,NaN,NaN,NaN,NaN
+Slovakia,female,Proportion of seats held by women in national parliaments (%),14.7,14.7,12.7,14,14,17.3,19.3,16.7,16.7,20,19.3,19.3,18,15.3,16,18.7,18.7,18.7,18.7,20,20,20
+Slovakia,female,Proportion of women in managerial positions,NaN,NaN,NaN,31.2,31.2,31.2,33.3,32.9,30.8,27.9,30.9,29.7,32.2,34.6,30.9,33.1,32.7,30,31.3,35,32.8,NaN
+Slovakia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,13.3,NaN,13.3,NaN,14.3,NaN,7.1,0,14.3,NaN,NaN
+Slovakia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,32.5,34.4,33.1,34.1,30.6,30,27.4,31.8,29.2,31.7,35.6,27.7,30.4,30.3,28.2,27.8,34.3,30.3,NaN
+Slovakia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,63,63,63,63,63,63,63,63,63,63,NaN,NaN,NaN
+Slovakia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14,15,15,16,16,17,17,NaN,NaN,NaN
+Slovenia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1702,NaN,NaN,NaN,NaN,NaN
 Slovenia,female,Proportion of seats held by women in national parliaments (%),7.8,7.8,7.8,NaN,12.2,12.2,12.2,12.2,12.2,12.2,12.2,13.3,14.4,14.4,32.2,32.2,32.2,35.6,36.7,36.7,36.7,24.4
+Slovenia,female,Proportion of women in managerial positions,NaN,NaN,NaN,29.6,31.6,29.1,33.2,33.4,34.2,33.1,31.9,34.8,35.5,34.8,38.4,39,37,37.6,37.4,40.8,41.2,NaN
 Slovenia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.3,NaN,NaN,17.6,NaN,22.2,NaN,7.7,NaN,18.2,43.8,50,NaN,NaN
+Slovenia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,34.6,36.4,35.8,41.9,40.2,42,42,37.6,43.3,44.7,43.3,38.9,40.3,38.6,36.5,37,41.8,41.9,NaN
+Slovenia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,74,75,76,76,77,78,77,78,78,78,78,NaN,NaN,NaN
+Slovenia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,11,12,13,14,15,15,15,15,15,16,13,NaN,NaN,NaN
+South Africa,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.3919,NaN,NaN,NaN,NaN,NaN
 South Africa,female,Proportion of seats held by women in national parliaments (%),25,28.8,30,29.8,29.8,29.8,29.8,32.8,32.8,32.8,33,33,44.5,44.5,42.3,42.3,42.3,41.5,42,41.8,42,42.3
+South Africa,female,Proportion of women in managerial positions,NaN,NaN,NaN,25.2,22.1,25.3,25.5,25.2,28.8,29.8,31.9,29.6,30,29.6,31,31.1,30,31.1,30.8,31.6,32.1,NaN
 South Africa,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,41.4,NaN,NaN,44.8,NaN,34.3,NaN,40,NaN,37.1,41.7,41.7,NaN,NaN
+South Africa,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,22.6,22.6,25.5,27.7,26.8,30.5,31.4,32,31.5,33.2,32.1,33.7,34.8,33.1,34.3,33.9,35.7,35.5,NaN
+South Africa,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35,36,37,37,37,43,NaN,NaN,NaN
+South Africa,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+South Korea,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1046,NaN,NaN,NaN,NaN,NaN
+South Korea,female,Proportion of seats held by women in national parliaments (%),3,3.7,3.7,5.9,5.9,5.9,5.9,13,13.4,13.4,14.4,13.7,14.7,14.7,14.7,15.7,15.7,16.3,16.3,17,17,17
+South Korea,female,Proportion of women in managerial positions,NaN,NaN,NaN,5,5.9,5.6,5.9,6.9,7.8,8.2,8.8,9.6,8.6,9.4,10.1,11.1,11.4,11.1,10.4,9.8,12.3,NaN
+South Korea,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.6,NaN,NaN,5,NaN,12.5,NaN,11.1,NaN,11.8,5.9,9.1,NaN,NaN
+South Korea,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+South Korea,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+South Korea,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,6,7,7,7,7,8,NaN,NaN,NaN,NaN,NaN
+Spain,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2841,NaN,NaN,NaN,NaN,NaN
 Spain,female,Proportion of seats held by women in national parliaments (%),24.7,24.7,21.6,28.3,28.3,28.3,28.3,36,36,36,36.6,36.3,36.6,36.6,36,36,36,39.7,41.1,39.1,39.1,39.1
+Spain,female,Proportion of women in managerial positions,NaN,NaN,NaN,31.5,32.3,31.6,29.9,31.6,32,31.9,32.3,32.5,33.2,34.3,30,30.2,30.8,30.9,31.4,31.2,30.6,NaN
 Spain,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,50,NaN,NaN,43.8,NaN,52.9,NaN,30.8,NaN,30.8,30.8,38.5,NaN,NaN
+Spain,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,15.7,17.5,18.1,15.8,19,21.5,23.2,23.8,23.8,24.7,27.1,28.1,28.8,29.3,29.4,30.4,30.3,30.9,NaN
+Spain,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,44,45,46,47,47,48,48,49,50,51,52,52,NaN,NaN,NaN
+Spain,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,10,10,11,11,11,NaN,NaN,NaN
+Sri Lanka,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2744,NaN,NaN,NaN,NaN,NaN
 Sri Lanka,female,Proportion of seats held by women in national parliaments (%),5.3,5.3,4.9,NaN,NaN,4.4,4.4,4.9,4.9,4.9,5.8,5.8,5.8,5.3,5.8,5.8,5.8,5.8,4.9,5.8,5.8,5.8
+Sri Lanka,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,21.7,20.4,19.8,22.4,20.5,23.8,23.9,25.1,25.5,25.5,28.4,29,24.8,NaN,NaN,27.6,NaN
 Sri Lanka,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.3,NaN,NaN,5.7,NaN,5.9,NaN,NaN,NaN,2.9,7.1,4.3,NaN,NaN
+Sri Lanka,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sri Lanka,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sri Lanka,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 State of Palestine,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+State of Palestine,female,Proportion of women in managerial positions,NaN,NaN,NaN,12.5,10.6,9.6,12.4,11.2,12.3,11.9,10.3,NaN,12.4,12.1,10.7,14.5,15,15.2,15.4,19.3,15.9,NaN
 State of Palestine,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+State of Palestine,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,23.1,22.9,19.9,23.8,20.2,22,19.8,18.4,NaN,NaN,21.7,21.5,15.5,NaN,NaN,NaN,NaN,NaN,NaN
+State of Palestine,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+State of Palestine,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8,NaN,NaN,NaN,NaN,NaN,NaN
 Sudan,female,Proportion of seats held by women in national parliaments (%),5.3,5.3,NaN,NaN,9.7,9.7,9.7,9.7,14.7,17.8,18.1,18.1,18.9,25.6,24.6,24.6,24.6,24.3,30.5,30.5,30.5,30.5
 Sudan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.6,NaN,NaN,6.3,NaN,6.3,NaN,9.1,NaN,16.1,15.2,11.4,NaN,NaN
+Suriname,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0723,NaN,NaN,NaN,NaN,NaN
 Suriname,female,Proportion of seats held by women in national parliaments (%),15.7,15.7,15.7,NaN,17.6,17.6,17.6,19.6,25.5,25.5,25.5,25.5,25.5,9.8,11.8,11.8,11.8,11.8,25.5,25.5,25.5,25.5
+Suriname,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35.8,NaN,37.3,NaN,NaN,NaN
 Suriname,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.8,NaN,NaN,16.7,NaN,NaN,NaN,11.1,NaN,5.6,5.6,22.2,NaN,NaN
+Suriname,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Suriname,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Suriname,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sweden,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.4976,NaN,NaN,NaN,NaN,NaN
+Sweden,female,Proportion of seats held by women in national parliaments (%),40.4,40.4,42.7,42.7,42.7,45,45.3,45.3,45.3,47.3,47,47,46.4,45,44.7,44.7,44.7,44.7,43.6,43.6,43.6,46.1
+Sweden,female,Proportion of women in managerial positions,NaN,NaN,NaN,30.7,30.5,30.7,30.3,30.3,31.9,32.1,31.6,32.1,32.5,31.4,34.5,35.5,35.4,37.1,39.6,39.3,38.9,NaN
+Sweden,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,52.4,NaN,NaN,47.6,NaN,45,NaN,52.2,NaN,56.5,52.2,52.2,NaN,NaN
+Sweden,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,27.4,31.2,32.1,30.5,31.6,31.9,31.7,31,30.8,31.1,31.3,33.5,34.5,35.5,37.5,39.8,39.5,39.5,NaN
+Sweden,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sweden,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,26,27,22,29,30,31,31,NaN,NaN,NaN
+Switzerland,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.361,NaN,NaN,NaN,NaN,NaN
+Switzerland,female,Proportion of seats held by women in national parliaments (%),21,21,22.5,23,23,23,25,25,25,25,28.5,28.5,29,29,28.5,29,29,31,32,32,32.5,32.5
+Switzerland,female,Proportion of women in managerial positions,NaN,NaN,NaN,23.4,25.3,27.7,28.2,26.8,28.3,30.6,30.4,30.2,31.5,33.5,33.8,33.8,33.4,34.4,35.6,35.9,33.9,NaN
+Switzerland,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,42.9,NaN,42.9,NaN,42.9,NaN,42.9,42.9,28.6,NaN,NaN
+Switzerland,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31.1,30.9,31.2,31.2,32.9,33.8,30.5,NaN
+Switzerland,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31,NaN,35,NaN,NaN,NaN,NaN,NaN,NaN
+Switzerland,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Syria,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0697,NaN,NaN,NaN,NaN,NaN
+Syria,female,Proportion of seats held by women in national parliaments (%),9.6,9.6,10.4,10.4,10.4,10.4,12,12,12,12,12,12.4,12.4,12.4,12.4,12,12,12,12.4,13.2,13.2,13.2
+Syria,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.2,NaN,8.3,9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Syria,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.3,NaN,NaN,6.3,NaN,6.3,NaN,10,NaN,8.8,5.9,6.1,NaN,NaN
+Syria,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Syria,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Syria,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tajikistan,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0891,NaN,NaN,NaN,NaN,NaN
 Tajikistan,female,Proportion of seats held by women in national parliaments (%),2.8,2.8,2.8,15,12.7,12.7,12.7,12.7,17.5,17.5,17.5,17.5,17.5,19,19,19,19,16.9,19,19,19,19
+Tajikistan,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Tajikistan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.1,NaN,NaN,5.9,NaN,5.9,NaN,6.3,NaN,11.1,11.1,5.9,NaN,NaN
+Tajikistan,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tajikistan,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,NaN,NaN,NaN,NaN,NaN,16,NaN,NaN,NaN
+Tajikistan,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tanzania,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2684,NaN,NaN,NaN,NaN,NaN
 Tanzania,female,Proportion of seats held by women in national parliaments (%),17.5,17.5,16.4,NaN,22.3,22.3,21.4,21.4,30.4,30.4,30.4,30.4,30.7,NaN,36,36,36,36,36,36.6,36.4,37.2
+Tanzania,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,49.2,NaN,NaN,NaN,NaN,16.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.3,NaN,NaN,NaN,NaN
 Tanzania,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,15.4,NaN,NaN,20.7,NaN,26.9,NaN,27.6,NaN,36.7,32.3,20,NaN,NaN
+Tanzania,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,11.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.3,NaN,NaN,NaN,NaN
+Tanzania,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tanzania,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,13,15,19,19,20,NaN,NaN,NaN
+Thailand,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0992,NaN,NaN,NaN,NaN,NaN
 Thailand,female,Proportion of seats held by women in national parliaments (%),5.6,5.6,5.6,4.8,9.2,9.2,9.2,8.8,10.6,8.7,11.7,11.7,13.3,13.3,15.8,15.8,15.8,6.1,6.1,6.1,4.8,5.3
+Thailand,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,25.5,25.3,26.3,27.5,28.8,29.2,29.7,23.7,24.2,25.8,24.6,28.2,33,32.7,32.8,32.7,NaN,NaN
 Thailand,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7.7,NaN,NaN,10,NaN,12.5,NaN,8.7,NaN,8.3,4.2,11.1,NaN,NaN
+Thailand,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24.4,NaN,NaN,27.1,29.4,29.8,29.5,NaN,NaN
+Thailand,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24,25,26,26,NaN,NaN,NaN,NaN,NaN,NaN
+Thailand,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Timor-Leste,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,NaN,NaN,NaN,NaN,26.1,25.3,25.3,25.3,29.2,29.2,29.2,29.2,32.3,38.5,38.5,38.5,38.5,38.5,32.3,33.8
+Timor-Leste,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10.1,NaN,NaN,32.9,NaN,NaN,NaN,NaN,NaN
 Timor-Leste,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22.2,NaN,NaN,25,NaN,21.4,NaN,23.1,NaN,11.8,12.5,18.8,NaN,NaN
+Timor-Leste,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Timor-Leste,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Timor-Leste,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Togo,female,Proportion of seats held by women in national parliaments (%),1.2,1.2,NaN,4.9,4.9,4.9,7.4,6.2,7.4,8.6,11.1,11.1,11.1,11.1,11.1,11.1,15.4,17.6,17.6,17.6,17.6,17.6
+Togo,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4,NaN,NaN,NaN,29.8,NaN,NaN,NaN
 Togo,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20,NaN,NaN,9.5,NaN,14.3,NaN,22.6,NaN,21.4,20.7,20,NaN,NaN
+Togo,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Togo,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,NaN,NaN,NaN,NaN,NaN,NaN
+Togo,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Trinidad and Tobago,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2092,NaN,NaN,NaN,NaN,NaN
 Trinidad and Tobago,female,Proportion of seats held by women in national parliaments (%),11.1,11.1,11.1,NaN,11.1,19.4,19.4,19.4,19.4,19.4,26.8,26.8,26.8,28.6,28.6,28.6,28.6,28.6,31,31,31,31
+Trinidad and Tobago,female,Proportion of women in managerial positions,NaN,NaN,NaN,39.2,39.9,37.8,39.3,40.9,43.5,NaN,NaN,NaN,41.3,43.1,41,43.1,43.9,43.8,41.9,44.5,NaN,NaN
 Trinidad and Tobago,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.2,NaN,NaN,36.4,NaN,34.5,NaN,18.4,NaN,6.5,9.7,28.6,NaN,NaN
+Trinidad and Tobago,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Trinidad and Tobago,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,49,59,68,55,48,58,58,NaN,NaN,NaN
+Trinidad and Tobago,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14,13,15,15,15,18,22,21,22,23,25,25,NaN,NaN,NaN
 Tunisia,female,Proportion of seats held by women in national parliaments (%),6.7,7.4,11.5,11.5,11.5,11.5,11.5,22.8,22.8,22.8,22.8,22.8,27.6,27.6,26.7,26.7,26.7,31.3,31.3,31.3,31.3,31.3
+Tunisia,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12.2,12.7,13.9,14.8,NaN,NaN,NaN,NaN,NaN,NaN
 Tunisia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7.1,NaN,NaN,7.1,NaN,3.8,NaN,6.9,NaN,3.7,10.5,23.1,NaN,NaN
+Tunisia,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.3,19.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tunisia,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tunisia,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Turkey,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0868,NaN,NaN,NaN,NaN,NaN
 Turkey,female,Proportion of seats held by women in national parliaments (%),2.4,2.4,4.2,4.2,4.2,NaN,4.4,4.4,4.4,4.4,9.1,9.1,9.1,9.1,14.2,14.2,14.4,14.4,14.9,14.9,14.6,17.4
+Turkey,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,8,6.8,6.2,6.6,6.9,8.2,8.6,9.8,10.2,NaN,11,12.2,14.4,13.4,13.2,15.1,15,NaN
 Turkey,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4.3,NaN,NaN,4.2,NaN,7.7,NaN,4,NaN,4,4,3.8,NaN,NaN
+Turkey,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.3,18,19.4,20.1,18.8,13,14.3,16.6,15.5,14.4,16.7,17.3,NaN
+Turkey,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34,35,35,NaN,NaN,NaN,NaN
+Turkey,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3,3,3,3,4,4,NaN,NaN,NaN,NaN,NaN,NaN
 Turkmenistan,female,Proportion of seats held by women in national parliaments (%),18,18,NaN,26,26,26,26,NaN,16,16,16,NaN,16.8,16.8,16.8,16.8,16.8,26.4,25.8,25.8,25.8,24.8
 Turkmenistan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9.5,NaN,NaN,7.1,NaN,6.3,NaN,9.4,NaN,8.8,5.7,2.9,NaN,NaN
+Uganda,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2839,NaN,NaN,NaN,NaN,NaN
 Uganda,female,Proportion of seats held by women in national parliaments (%),18.1,18.1,17.9,17.8,24.7,24.7,24.7,23.9,23.9,29.8,30.7,30.7,31.5,31.3,35,35,35,35,35,33.5,34.3,34.3
+Uganda,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,27.6,33.3,NaN,NaN,NaN,NaN,NaN,20.2,NaN,NaN,22.8,25.3,NaN,NaN,NaN,31.8,NaN
 Uganda,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.4,NaN,NaN,28,NaN,32,NaN,32.1,NaN,32.1,29.6,36.7,NaN,NaN
+Uganda,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Uganda,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Uganda,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ukraine,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0587,NaN,NaN,NaN,NaN,NaN
 Ukraine,female,Proportion of seats held by women in national parliaments (%),3.8,NaN,7.8,7.8,7.8,NaN,5.3,5.3,5.3,8.7,8.2,8.2,8,8,8,9.4,9.4,11.7,12.1,12,12.3,12.3
+Ukraine,female,Proportion of women in managerial positions,NaN,NaN,NaN,36.7,37.4,38.5,39.6,43.1,38.2,38.3,39.4,38.6,41.1,41.2,NaN,NaN,38.3,37.8,39.6,40.9,41.1,NaN
 Ukraine,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.6,NaN,NaN,4.3,NaN,4.3,NaN,0,NaN,14.3,10.5,13,NaN,NaN
+Ukraine,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ukraine,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ukraine,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+United Kingdom,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2747,NaN,NaN,NaN,NaN,NaN
+United Kingdom,female,Proportion of seats held by women in national parliaments (%),18.2,18.2,18.4,18.4,17.9,17.9,17.9,18.1,19.7,19.7,19.5,19.5,19.5,22,22.3,22.5,22.5,22.6,29.4,29.6,32,32.2
+United Kingdom,female,Proportion of women in managerial positions,NaN,NaN,NaN,34.5,30.9,32.5,32.3,33.1,34.3,34.6,34.4,34.9,35.6,35.7,34.6,34.4,34,35.3,35.4,36,36.2,NaN
+United Kingdom,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.6,NaN,NaN,22.7,NaN,22.6,NaN,17.2,NaN,15.6,22.7,30.8,NaN,NaN
+United Kingdom,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,34.7,29.6,31.4,31.5,32.5,33.6,34.3,34.4,34.8,35.4,36,32.1,32.4,32.3,32.9,32.4,33.8,34.4,NaN
+United Kingdom,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16,17,19,20,20,22,47,48,48,48,48,NaN,NaN,NaN
+United Kingdom,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19,20,21,24,25,26,26,27,27,28,28,29,NaN,NaN,NaN
+United States of America,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1593,NaN,NaN,NaN,NaN,NaN
+United States of America,female,Proportion of seats held by women in national parliaments (%),11.7,11.7,13.3,NaN,14,13.8,14.3,14.9,15.2,16.3,16.8,17,16.8,16.8,16.8,18,17.9,19.3,19.4,19.4,19.4,19.6
+United States of America,female,Proportion of women in managerial positions,NaN,NaN,NaN,36,36.4,36.8,37.5,37.3,37.8,37.2,38.4,38.3,38.3,39.1,38.9,39.4,38.9,39,39.6,39.7,40.5,NaN
+United States of America,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.3,NaN,NaN,23.8,NaN,33.3,NaN,27.3,NaN,31.8,26.1,NaN,NaN,NaN
+United States of America,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,35.5,35.9,36.4,37.3,37.3,37.5,36.9,38.1,37.9,38.1,38.6,38.6,39.2,38.8,38.7,39.3,39.7,40.4,NaN
+United States of America,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+United States of America,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,12,12,12,12,12,12,12,12,12,NaN,NaN,NaN
+Uruguay,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0617,NaN,NaN,NaN,NaN,NaN
 Uruguay,female,Proportion of seats held by women in national parliaments (%),7.1,7.1,12.1,12.1,12.1,12.1,12.1,12.1,11.1,11.1,12.1,12.1,14.1,15.2,12.1,12.1,12.1,16.2,16.2,16.2,20.2,20.2
+Uruguay,female,Proportion of women in managerial positions,NaN,NaN,NaN,36.3,37.1,37,35.2,31.8,35.4,41.2,41.7,41.7,42.2,45.1,31.9,34.5,32.9,31,32.8,33.1,34.6,NaN
 Uruguay,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,28.6,NaN,21.4,NaN,7.1,NaN,14.3,14.3,35.7,NaN,NaN
+Uruguay,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.4,17.3,23.4,22.1,17.9,22.5,23.7,31.2,36.5,34.2,31.8,34,33.7,35.1,NaN
+Uruguay,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Uruguay,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16,18,NaN,20,20,76,NaN,NaN,NaN
 Uzbekistan,female,Proportion of seats held by women in national parliaments (%),6,6,NaN,7.2,7.2,7.2,7.2,17.5,17.5,17.5,17.5,17.5,22,22,22,22,22,22,16,16,16,16
 Uzbekistan,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.6,NaN,NaN,5.3,NaN,3.2,NaN,10.5,NaN,10.5,10.5,NaN,NaN,NaN
 Vanuatu,female,Proportion of seats held by women in national parliaments (%),NaN,NaN,0,0,0,1.9,1.9,3.8,3.8,3.8,3.8,3.8,3.8,3.8,1.9,0,0,0,0,0,0,0
+Vanuatu,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 Vanuatu,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8.3,NaN,NaN,7.7,NaN,0,NaN,0,NaN,0,0,0,NaN,NaN
+Vanuatu,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Vanuatu,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Vanuatu,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Venezuela,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.2196,NaN,NaN,NaN,NaN,NaN
 Venezuela,female,Proportion of seats held by women in national parliaments (%),5.9,5.9,12.1,NaN,9.7,9.7,9.7,9.7,17.4,18,18.6,18.6,17.5,17,17,17,17,17,17,14.4,22.2,22.2
+Venezuela,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.7,30.6,30,30.7,30.3,31.6,32.7,33.6,NaN,NaN,NaN,NaN,NaN,NaN
 Venezuela,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13.6,NaN,NaN,21.4,NaN,25.9,NaN,37.8,NaN,16.1,23.3,24.2,NaN,NaN
+Venezuela,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Venezuela,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Venezuela,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Vietnam,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.1247,NaN,NaN,NaN,NaN,NaN
 Vietnam,female,Proportion of seats held by women in national parliaments (%),26.2,26.2,26,26,26,27.3,27.3,27.3,27.3,27.3,25.8,25.8,25.8,25.8,24.4,24.4,24.4,24.3,24.3,26.7,26.7,26.7
+Vietnam,female,Proportion of women in managerial positions,NaN,NaN,NaN,16.8,19.1,19.3,19.9,22.2,NaN,NaN,20.5,NaN,20.8,23.4,23.3,23.9,24.4,22.9,25.8,26.1,27.2,NaN
 Vietnam,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11.5,NaN,NaN,4.2,NaN,4.2,NaN,9.1,NaN,9.1,9.1,4.2,NaN,NaN
+Vietnam,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Vietnam,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Vietnam,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Yemen,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0227,NaN,NaN,NaN,NaN,NaN
+Yemen,female,Proportion of seats held by women in national parliaments (%),NaN,0.7,0.7,0.7,0.7,0.7,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,0,0,0
+Yemen,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7.1,NaN,2.1,NaN,NaN,NaN,5.7,NaN,NaN,NaN,4.1,NaN,NaN,NaN,NaN
+Yemen,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.9,NaN,NaN,5.7,NaN,5.9,NaN,8.1,NaN,8.8,9.7,5.4,NaN,NaN
+Yemen,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Yemen,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Yemen,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Zambia,female,Political Empowerment Score,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0732,NaN,NaN,NaN,NaN,NaN
 Zambia,female,Proportion of seats held by women in national parliaments (%),9.7,10.3,10.1,10.1,10.1,12,12,12,12.7,14.6,15.2,15.2,14,14,11.5,11.5,11.5,10.8,12.7,18,18,18
 Zambia,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,NaN,NaN,16.7,NaN,16.7,NaN,11.8,NaN,15,20,33.3,NaN,NaN
 Zimbabwe,female,Proportion of seats held by women in national parliaments (%),14.7,14.7,14,9.3,10,10,10,10,16,16.7,16,15.2,15,15,15,15,31.5,31.5,31.5,31.5,32.6,31.5
+Zimbabwe,female,Proportion of women in managerial positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20.6,NaN,NaN,28.9,NaN,NaN,NaN,NaN
 Zimbabwe,female,Proportion of women in ministerial level positions (%),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14.7,NaN,NaN,16.3,NaN,18.6,NaN,13.5,NaN,11.1,11.5,16.1,NaN,NaN
+Zimbabwe,female,Proportion of women in senior and middle management positions,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Zimbabwe,female,Share of female judges,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Zimbabwe,female,Share of female police officers,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
