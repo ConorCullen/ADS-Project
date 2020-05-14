@@ -1,203 +1,208 @@
-Country,Region,Gross National Income (GNI),Financial inclusion (%) - male,Financial inclusion (%) - female ,Urban labour force participation rate (%) - male,Urban labour force participation rate (%) - female,Rural labour force participation rate (%) - male,Rural labour force participation rate (%) - female,Total labour force participation rate (%) - male,Total labour force participation rate (%) - female,Demand for family planning satisfied with modern methods (%) - Women aged 15-49,Demand for family planning satisfied with modern methods (%) - Women aged 15-19
-Afghanistan,Middle East and North Africa,Low,23,7,71,16,74,23,73,21,42,21
-Albania,Post-communist,Upper-Middle,42,38,NaN,NaN,NaN,NaN,NaN,NaN,5,5
-Algeria,Middle East and North Africa,Upper-Middle,56,29,57,15,65,10,60,13,77,NaN
-Andorra,Europe,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Angola,Sub Saharan Africa,Lower-Middle,36,22,73,63,89,90,80,75,30,15
-Anguilla,Americas,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Antigua and Barbuda,Americas,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Argentina,Americas,Upper-Middle,46,51,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Armenia,Post-communist,Upper-Middle,56,41,68,48,74,61,71,53,37,NaN
-Australia,Asia Pacific,High,100,99,72,61,67,57,71,60,NaN,NaN
-Austria,Europe,High,98,98,67,55,67,57,67,56,NaN,NaN
-Azerbaijan,Post-communist,Upper-Middle,29,28,NaN,NaN,NaN,NaN,NaN,NaN,22,13
-Bahamas,Americas,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Bahrain,Middle East and North Africa,High,86,75,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Bangladesh,Asia Pacific,Lower-Middle,65,36,81,31,80,39,81,36,73,68
-Barbados,Americas,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,70,NaN
-Belarus,Post-communist,Upper-Middle,81,81,NaN,NaN,NaN,NaN,NaN,NaN,74,NaN
-Belgium,Europe,High,98,99,59,49,61,52,59,50,NaN,NaN
-Belize,Americas,Upper-Middle,44,52,77,57,81,41,79,49,66,47
-Benin,Sub Saharan Africa,Low,49,29,70,65,78,73,74,70,26,13
-Bhutan,Asia Pacific,Lower-Middle,39,28,75,46,70,60,71,56,85,NaN
-Bolivia,Americas,Lower-Middle,55,54,76,58,91,77,80,64,50,NaN
-Bosnia and Herzegovina,Post-communist,Upper-Middle,63,55,53,37,53,27,53,31,22,NaN
-Botswana,Sub Saharan Africa,Upper-Middle,56,47,69,57,71,53,70,56,NaN,NaN
-Brazil,Americas,Upper-Middle,73,68,77,56,82,55,78,56,89,NaN
-British Virgin Islands,Americas,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Brunei Darussalam,Asia Pacific,High,NaN,NaN,69,58,68,53,69,56,NaN,NaN
-Bulgaria,Post-communist,Upper-Middle,71,74,65,54,55,38,62,49,NaN,NaN
-Burkina Faso,Sub Saharan Africa,Low,51,35,69,55,77,59,75,58,56,51
-Burundi,Sub Saharan Africa,Low,8,7,69,55,79,83,78,80,38,55
-Cabo Verde,Sub Saharan Africa,Lower-Middle,NaN,NaN,55,36,66,55,63,49,73,68
-Cambodia,Asia Pacific,Lower-Middle,22,22,85,70,89,78,88,76,57,46
-Cameroon,Sub Saharan Africa,Lower-Middle,39,30,74,58,80,74,78,67,47,39
-Canada,Americas,High,100,100,70,62,67,59,70,61,NaN,NaN
-Central African Republic,Sub Saharan Africa,Low,18,10,NaN,NaN,NaN,NaN,NaN,NaN,29,NaN
-Chad,Sub Saharan Africa,Low,29,15,NaN,NaN,NaN,NaN,NaN,NaN,20,9
-Chile,Americas,High,78,71,70,50,72,42,71,49,NaN,NaN
-China,Asia Pacific,Upper-Middle,84,76,NaN,NaN,NaN,NaN,NaN,NaN,97,NaN
-Colombia,Americas,Upper-Middle,49,42,79,60,86,46,80,57,87,72
-Comoros,Sub Saharan Africa,Lower-Middle,26,18,48,29,52,34,51,33,29,20
-"Congo, Dem. Rep",Sub Saharan Africa,Low,27,24,61,44,76,75,70,63,19,12
-"Congo, Rep.",Sub Saharan Africa,Lower-Middle,31,21,64,58,77,80,69,67,43,28
-Cook Islands,Asia Pacific,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Costa Rica,Americas,Upper-Middle,75,61,73,49,75,39,74,46,89,NaN
-Côte d'Ivoire,Sub Saharan Africa,Lower-Middle,47,36,66,46,77,52,66,46,39,NaN
-Croatia,Post-communist,High,90,83,58,48,56,41,57,46,NaN,NaN
-Cuba,Americas,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,89,73
-Cyprus,Europe,High,87,90,69,59,63,51,68,57,NaN,NaN
-Czech Republic,Post-communist,High,84,79,69,53,68,52,69,53,86,NaN
-Democratic People's Republic of Korea,Asia Pacific,Low,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,90,NaN
-Denmark,Europe,High,100,100,69,60,64,55,67,58,NaN,NaN
-Djibouti,Sub Saharan Africa,Lower-Middle,17,9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Dominica,Americas,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Dominican Republic,Americas,Upper-Middle,58,54,76,51,79,40,76,49,82,67
-Ecuador,Americas,Upper-Middle,60,43,77,52,85,61,79,55,79,NaN
-"Egypt, Arab Rep.",Middle East and North Africa,Lower-Middle,39,27,65,22,68,22,67,22,80,64
-El Salvador,Americas,Lower-Middle,38,24,75,52,82,35,77,46,80,70
-Equatorial Guinea,Sub Saharan Africa,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,20
-Eritrea,Sub Saharan Africa,Low,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,6
-Estonia,Post-communist,High,98,98,74,59,67,55,71,57,NaN,NaN
-Eswatini,Sub Saharan Africa,Lower-Middle,30,27,71,63,51,42,56,47,83,NaN
-Ethiopia,Sub Saharan Africa,Low,41,29,73,61,88,79,85,75,62,NaN
-Fiji,Asia Pacific,Upper-Middle,NaN,NaN,72,39,82,38,77,39,NaN,NaN
-Finland,Europe,High,100,100,65,57,59,53,63,56,NaN,NaN
-France,Europe,High,97,91,61,51,59,52,60,52,96,NaN
-Gabon,Sub Saharan Africa,Upper-Middle,64,54,NaN,NaN,NaN,NaN,NaN,NaN,44,23
-Gambia,Sub Saharan Africa,Low,NaN,NaN,70,49,67,52,69,50,27,11
-Georgia,Post-communist,Upper-Middle,58,64,68,49,82,71,75,58,53,NaN
-Germany,Europe,High,99,99,67,56,68,57,67,56,NaN,NaN
-Ghana,Sub Saharan Africa,Lower-Middle,62,54,64,60,53,50,59,55,46,NaN
-Greece,Europe,High,86,85,61,46,59,41,60,44,NaN,NaN
-Grenada,Americas,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Guatemala,Americas,Upper-Middle,46,42,81,47,89,30,85,39,66,50
-Guinea,Sub Saharan Africa,Low,27,20,55,45,73,70,66,63,22,14
-Guinea-Bissau,Sub Saharan Africa,Low,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,56,20
-Guyana,Americas,Upper-Middle,NaN,NaN,71,52,68,40,69,44,52,17
-Haiti,Americas,Low,35,30,67,49,80,59,74,54,43,31
-Holy See,Europe,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Honduras,Americas,Lower-Middle,50,41,77,52,92,37,84,46,76,67
-Hungary,Post-communist,High,78,72,65,49,67,49,66,49,NaN,NaN
-Iceland,Europe,High,NaN,NaN,85,78,87,79,86,78,NaN,NaN
-India,Asia Pacific,Lower-Middle,83,77,76,18,80,26,79,23,67,27
-Indonesia,Asia Pacific,Lower-Middle,46,51,79,50,85,55,82,52,78,72
-"Iran, Islamic Rep.",Middle East and North Africa,Upper-Middle,96,92,63,15,66,16,64,15,69,NaN
-Iraq,Middle East and North Africa,Upper-Middle,26,20,72,13,74,7,72,11,55,NaN
-Ireland,Europe,High,95,95,70,58,67,53,69,56,NaN,NaN
-Israel,Middle East and North Africa,High,92,94,68,59,70,64,68,60,NaN,NaN
-Italy,Europe,High,96,92,60,41,59,40,59,41,NaN,NaN
-Jamaica,Americas,Upper-Middle,79,78,71,62,76,59,73,61,79,NaN
-Japan,Asia Pacific,High,98,98,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Jordan,Middle East and North Africa,Upper-Middle,56,27,NaN,NaN,NaN,NaN,NaN,NaN,57,31
-Kazakhstan,Post-communist,Upper-Middle,57,60,NaN,NaN,NaN,NaN,NaN,NaN,79,NaN
-Kenya,Sub Saharan Africa,Lower-Middle,86,78,80,68,76,74,78,71,76,68
-Kiribati,Asia Pacific,Lower-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36,0
-Kuwait,Middle East and North Africa,High,83,73,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Kyrgyzstan,Post-communist,Lower-Middle,41,39,75,43,75,50,75,46,66,41
-Lao People's Democratic Republic,Asia Pacific,Lower-Middle,26,32,59,49,39,30,45,37,72,48
-Latvia,Post-communist,High,94,93,70,58,65,52,68,56,NaN,NaN
-Lebanon,Middle East and North Africa,Upper-Middle,57,33,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Lesotho,Sub Saharan Africa,Lower-Middle,45,46,NaN,NaN,NaN,NaN,NaN,NaN,79,55
-Liberia,Sub Saharan Africa,Low,44,28,75,63,91,84,82,72,41,22
-Libya,Middle East and North Africa,Upper-Middle,71,60,NaN,NaN,NaN,NaN,NaN,NaN,24,NaN
-Liechtenstein,Europe,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Lithuania,Post-communist,High,85,81,70,60,64,50,68,57,NaN,NaN
-Luxembourg,Europe,High,99,98,66,57,61,54,64,56,NaN,NaN
-Madagascar,Sub Saharan Africa,Low,20,16,80,72,92,87,89,84,61,NaN
-Malawi,Sub Saharan Africa,Low,38,30,75,65,56,47,60,50,74,62
-Malaysia,Asia Pacific,Upper-Middle,88,82,79,56,83,49,80,54,NaN,NaN
-Maldives,Asia Pacific,Upper-Middle,NaN,NaN,80,48,77,46,78,47,43,18
-Mali,Sub Saharan Africa,Low,45,26,75,46,84,59,81,55,35,21
-Malta,Europe,High,98,97,70,49,70,54,70,49,NaN,NaN
-Marshall Islands,Asia Pacific,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,81,40
-Mauritania,Sub Saharan Africa,Lower-Middle,26,15,63,26,63,29,63,28,30,NaN
-Mauritius,Sub Saharan Africa,Upper-Middle,93,87,NaN,NaN,NaN,NaN,NaN,NaN,41,NaN
-Mexico,Americas,Upper-Middle,41,33,76,47,81,31,77,43,80,64
-Micronesia,Asia Pacific,Lower-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Monaco,Europe,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Mongolia,Asia Pacific,Lower-Middle,91,95,60,48,76,67,66,54,65,42
-Montenegro,Post-communist,Upper-Middle,69,68,NaN,NaN,NaN,NaN,NaN,NaN,43,NaN
-Montserrat,Americas,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Morocco,Middle East and North Africa,Lower-Middle,41,17,70,18,80,36,74,25,69,NaN
-Mozambique,Sub Saharan Africa,Low,51,33,73,62,84,87,80,78,56,34
-Myanmar,Asia Pacific,Lower-Middle,26,26,72,46,79,49,77,48,75,73
-Namibia,Sub Saharan Africa,Upper-Middle,81,81,70,61,54,49,63,55,80,47
-Nauru,Asia Pacific,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,43,NaN
-Nepal,Asia Pacific,Low,50,42,60,32,48,21,54,26,56,25
-Netherlands,Europe,High,99,100,70,59,69,58,70,59,NaN,NaN
-New Zealand,Asia Pacific,High,99,99,76,65,81,70,76,65,NaN,NaN
-Nicaragua,Americas,Lower-Middle,37,25,78,56,90,35,83,48,93,87
-Niger,Sub Saharan Africa,Low,20,11,70,40,90,68,86,63,46,28
-Nigeria,Sub Saharan Africa,Lower-Middle,51,27,54,49,58,48,56,49,43,15
-Niue,Asia Pacific,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-North Macedonia,Post-communist,Upper-Middle,80,73,66,42,72,45,67,43,22,NaN
-Norway,Europe,High,99,100,68,64,65,59,66,62,NaN,NaN
-Oman,Middle East and North Africa,High,84,64,89,33,81,21,88,30,40,NaN
-Pakistan,Asia Pacific,Lower-Middle,35,7,78,12,82,28,80,22,49,23
-Palau,Asia Pacific,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Panama,Americas,High,51,42,74,52,80,45,76,50,73,37
-Papua New Guinea,Asia Pacific,Lower-Middle,NaN,NaN,57,52,48,47,49,48,41,NaN
-Paraguay,Americas,Upper-Middle,51,46,83,62,87,55,84,59,79,83
-Peru,Americas,Upper-Middle,51,34,80,64,92,86,83,69,67,65
-Philippines,Asia Pacific,Lower-Middle,30,39,71,48,74,43,72,45,53,47
-Poland,Post-communist,High,85,88,65,50,65,46,65,48,NaN,NaN
-Portugal,Europe,High,94,91,65,56,63,50,64,54,NaN,NaN
-Qatar,Middle East and North Africa,High,69,62,96,59,NaN,NaN,96,59,69,NaN
-Republic of Moldova,Post-communist,Lower-Middle,43,45,47,39,45,42,46,41,60,NaN
-Romania,Post-communist,Upper-Middle,62,54,65,47,65,43,65,46,47,NaN
-Russian Federation,Post-communist,Upper-Middle,75,76,73,58,67,50,71,56,72,NaN
-Rwanda,Sub Saharan Africa,Low,56,45,70,57,58,41,61,44,63,84
-Saint Kitts and Nevis,Americas,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Saint Lucia,Americas,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,72,NaN
-Saint Vincent and the Grenadines,Americas,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Samoa,Asia Pacific,Upper-Middle,NaN,NaN,60,42,54,29,55,31,39,11
-San Marino,Europe,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Sao Tome and Principe,Sub Saharan Africa,Lower-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,52,38
-Saudi Arabia,Middle East and North Africa,High,81,58,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Senegal,Sub Saharan Africa,Lower-Middle,47,38,55,36,62,33,58,35,51,25
-Serbia,Post-communist,Upper-Middle,73,70,61,47,66,46,63,47,39,NaN
-Seychelles,Sub Saharan Africa,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Sierra Leone,Sub Saharan Africa,Low,25,15,62,62,49,46,58,56,45,32
-Singapore,Asia Pacific,High,100,96,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Slovakia,Post-communist,High,85,83,68,54,67,50,68,52,NaN,NaN
-Slovenia,Post-communist,High,98,97,64,54,64,54,64,54,NaN,NaN
-Solomon Islands,Asia Pacific,Lower-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,38,13
-Somalia,Sub Saharan Africa,Low,44,34,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-South Africa,Sub Saharan Africa,Upper-Middle,68,70,69,55,48,35,62,48,78,NaN
-South Korea,Asia Pacific,High,95,95,73,53,76,56,74,53,NaN,NaN
-South Sudan,Sub Saharan Africa,Low,13,5,NaN,NaN,NaN,NaN,NaN,NaN,6,NaN
-Spain,Europe,High,96,92,65,53,59,46,64,52,NaN,NaN
-Sri Lanka,Asia Pacific,Upper-Middle,74,73,73,30,76,37,75,36,74,58
-State of Palestine,Middle East and North Africa,Lower-Middle,34,16,NaN,NaN,NaN,NaN,NaN,NaN,65,35
-Sudan,Sub Saharan Africa,Lower-Middle,20,10,66,25,73,30,70,28,30,19
-Suriname,Americas,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,73,NaN
-Sweden,Europe,High,99,100,76,72,73,69,76,71,NaN,NaN
-Switzerland,Europe,High,98,99,74,62,75,67,74,63,NaN,NaN
-Syria,Middle East and North Africa,Low,27,20,NaN,NaN,NaN,NaN,NaN,NaN,53,31
-Tajikistan,Post-communist,Low,52,42,54,28,57,29,56,29,45,18
-Tanzania,Sub Saharan Africa,Low,52,42,83,72,91,86,88,80,54,35
-Thailand,Asia Pacific,Upper-Middle,84,80,76,61,77,59,77,60,89,83
-Timor-Leste,Asia Pacific,Lower-Middle,NaN,NaN,65,50,75,65,73,61,37,22
-Togo,Sub Saharan Africa,Low,53,38,45,53,53,69,49,61,37,15
-Tokelau,Asia Pacific,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Tonga,Asia Pacific,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,48,NaN
-Trinidad and Tobago,Americas,High,88,74,NaN,NaN,NaN,NaN,NaN,NaN,58,61
-Tunisia,Middle East and North Africa,Lower-Middle,46,28,69,29,73,18,70,26,73,NaN
-Turkey,Middle East and North Africa,Upper-Middle,83,54,NaN,NaN,NaN,NaN,NaN,NaN,60,30
-Turkmenistan,Post-communist,Upper-Middle,46,36,NaN,NaN,NaN,NaN,NaN,NaN,76,11
-Turks and Caicos Islands,Americas,High,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-Tuvalu,Asia Pacific,Upper-Middle,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,41,NaN
-Uganda,Sub Saharan Africa,Low,66,53,77,60,57,39,62,45,54,NaN
-Ukraine,Post-communist,Lower-Middle,65,61,70,58,67,54,69,57,68,NaN
-United Arab Emirates,Middle East and North Africa,High,93,76,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-United Kingdom,Europe,High,97,96,69,58,64,55,68,58,NaN,NaN
-United States of America,Americas,High,94,93,70,58,64,53,69,57,77,NaN
-Uruguay,Americas,High,68,61,72,56,77,51,72,56,NaN,NaN
-Uzbekistan,Post-communist,Lower-Middle,38,36,NaN,NaN,NaN,NaN,NaN,NaN,NaN,
-Vanuatu,Asia Pacific,Lower-Middle,NaN,NaN,68,51,82,63,78,60,51,NaN
-Venezuela,Americas,Upper-Middle,77,70,69,46,76,32,69,45,NaN,NaN
-Vietnam,Asia Pacific,Lower-Middle,31,30,74,63,85,77,81,72,70,60
-Yemen,Middle East and North Africa,Low,11,2,66,8,65,5,65,6,38,22
-Zambia,Sub Saharan Africa,Lower-Middle,52,40,59,36,34,20,45,28,62,57
-Zimbabwe,Sub Saharan Africa,Lower-Middle,59,52,70,87,90,95,82,92,85,77
+Country,Region,Gross National Income (GNI),Development,HPI_Class,Financial inclusion (%) - male,Financial inclusion (%) - female ,Urban labour force participation rate (%) - male,Urban labour force participation rate (%) - female,Rural labour force participation rate (%) - male,Rural labour force participation rate (%) - female,Total labour force participation rate (%) - male,Total labour force participation rate (%) - female,Demand for family planning satisfied with modern methods (%) - Women aged 15-49,Demand for family planning satisfied with modern methods (%) - Women aged 15-19,Government Expenditure on Health as % of GDP,Government Expenditure on Education as % of GDP,Births by Age 18,"Adolescent birth rate (number of live births to adolescent women per 1,000 adolescent women)",Percentage of adolescents (aged 10-14 years) engaged in household chores - male,Percentage of adolescents (aged 10-14 years) engaged in household chores - female,Percentage of boys (aged 15-17 years) who have experienced sexual violence,Percentage of girls (aged 15-17 years) who have experienced sexual violence,Percentage of women (aged 20-24 years) married or in union before age 15,Percentage of women (aged 20-24 years) married or in union before age 18,Percentage of women (aged 15-49 years) who consider a husband to be justified in hitting or beating his wife for at least one of the specified reasons,Happy Planet Index
+Afghanistan,Middle East and North Africa,Low,Developing,Red,23,7,71,16,74,23,73,21,42,21,0.5,3.2,20,110.2,9.3,22.2,NaN,5.8,8.8,34.8,80.2,20.2
+Albania,Post-communist,Upper-Middle,Developing,Yellow,42,38,NaN,NaN,NaN,NaN,NaN,NaN,5,5,2.9,3.4,3,19.4,0.7,2.5,NaN,NaN,1.4,11.8,6.8,36.8
+Algeria,Middle East and North Africa,Upper-Middle,Developing,Orange,56,29,57,15,65,10,60,13,77,NaN,4.9,NaN,1,9.6,0.7,1.1,NaN,NaN,0.4,2.5,59,33.3
+Andorra,Europe,High,Developed,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,3.3,NaN,5.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Angola,Sub Saharan Africa,Lower-Middle,Developing,Red,36,22,73,63,89,90,80,75,30,15,1.4,3.5,38,164.3,15.4,19.3,NaN,3.5,7.9,30.3,25.2,NaN
+Anguilla,Americas,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,59.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Antigua and Barbuda,Americas,High,Developing,Yellow,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.2,NaN,NaN,63.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Argentina,Americas,Upper-Middle,Developing,Green,46,51,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.8,5.8,12,64.9,NaN,NaN,NaN,NaN,NaN,NaN,2,35.2
+Armenia,Post-communist,Upper-Middle,Developing,Dark Orange,56,41,68,48,74,61,71,53,37,NaN,1.6,2.8,1,26,0.3,0.7,NaN,NaN,0,5.3,10.1,25.7
+Aruba,Americas,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,40.55,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Australia,Asia Pacific,High,Developed,Red,100,99,72,61,67,57,71,60,NaN,NaN,6.4,5.3,NaN,16.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21.2
+Austria,Europe,High,Developed,Dark Orange,98,98,67,55,67,57,67,56,NaN,NaN,7.5,5.5,NaN,11.2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.5
+Azerbaijan,Post-communist,Upper-Middle,Developing,Dark Orange,29,28,NaN,NaN,NaN,NaN,NaN,NaN,22,13,1.4,3,4,47.2,NaN,NaN,NaN,0.2,1.9,11,28,NaN
+Bahamas,Americas,High,Developing,Dark Orange,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3,NaN,NaN,43,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bahrain,Middle East and North Africa,High,Developing,Dark Orange,86,75,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.2,2.7,NaN,14.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bangladesh,Asia Pacific,Lower-Middle,Developing,Dark Orange,65,36,81,31,80,39,81,36,73,68,0.4,1.5,36,118.3,NaN,NaN,NaN,23,22.4,58.6,28.3,38.4
+Barbados,Americas,High,Developing,Green,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,70,NaN,3.2,4.7,7,50.5,0.2,0,NaN,NaN,0.7,10.7,3.3,NaN
+Belarus,Post-communist,Upper-Middle,Developing,Dark Orange,81,81,NaN,NaN,NaN,NaN,NaN,NaN,74,NaN,3.7,4.8,3,22.3,0,0,NaN,NaN,0,3.2,4.1,21.7
+Belgium,Europe,High,Developed,Dark Orange,98,99,59,49,61,52,59,50,NaN,NaN,8.4,6.6,NaN,10.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.7
+Belize,Americas,Upper-Middle,Developing,Yellow,44,52,77,57,81,41,79,49,66,47,4.1,6.7,17,71.6,1.3,3,NaN,NaN,6.3,33.5,5.2,33.8
+Benin,Sub Saharan Africa,Low,Developing,Red,49,29,70,65,78,73,74,70,26,13,0.8,4.4,19,94.3,18.2,33,NaN,4.9,7,25.9,31.8,13.4
+Bhutan,Asia Pacific,Lower-Middle,Developing,Orange,39,28,75,46,70,60,71,56,85,NaN,2.7,7.4,15,40.15,2.2,4.5,NaN,NaN,6.2,25.8,68.4,28.6
+Bolivia,Americas,Lower-Middle,Developing,Orange,55,54,76,58,91,77,80,64,50,NaN,4.4,7.3,20,85.8,NaN,NaN,NaN,NaN,3.4,19.7,16.1,23.3
+Bosnia and Herzegovina,Post-communist,Upper-Middle,Developing,Dark Orange,63,55,53,37,53,27,53,31,22,NaN,6.6,NaN,NaN,15.8,NaN,NaN,NaN,NaN,0.2,3.5,4.8,25.3
+Botswana,Sub Saharan Africa,Upper-Middle,Developing,Red,56,47,69,57,71,53,70,56,NaN,NaN,3.3,NaN,NaN,50.5,NaN,NaN,NaN,NaN,,10,NaN,16.6
+Brazil,Americas,Upper-Middle,Developing,Yellow,73,68,77,56,82,55,78,56,89,NaN,3.8,6.2,NaN,67.3,NaN,NaN,NaN,NaN,5.9,26.2,NaN,34.3
+British Virgin Islands,Americas,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6.3,NaN,33.35,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Brunei Darussalam,Asia Pacific,High,Developing,Dark Orange,NaN,NaN,69,58,68,53,69,56,NaN,NaN,2.3,4.4,NaN,16.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bulgaria,Post-communist,Upper-Middle,Developed,Dark Orange,71,74,65,54,55,38,62,49,NaN,NaN,4.2,NaN,5,41.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20.4
+Burkina Faso,Sub Saharan Africa,Low,Developing,Red,51,35,69,55,77,59,75,58,56,51,1.7,4.2,28,130.55,9,28.6,NaN,NaN,10.2,51.6,43.5,17.9
+Burundi,Sub Saharan Africa,Low,Developing,Red,8,7,69,55,79,83,78,80,38,55,2.5,6.4,13,61.7,20.5,30,3,8.8,2.8,19,61.8,15.6
+Cabo Verde,Sub Saharan Africa,Lower-Middle,Developing,Yellow,NaN,NaN,55,36,66,55,63,49,73,68,3.6,5.3,22,90,NaN,NaN,NaN,NaN,2.8,18,17.3,NaN
+Cambodia,Asia Pacific,Lower-Middle,Developing,Dark Orange,22,22,85,70,89,78,88,76,57,46,1.3,1.9,7,47.65,1.5,5.5,NaN,0,1.9,18.5,50.4,25.6
+Cameroon,Sub Saharan Africa,Lower-Middle,Developing,Red,39,30,74,58,80,74,78,67,47,39,0.7,2.8,28,132.2,8.3,21.7,1.9,17.6,10.2,31,36.1,16.7
+Canada,Americas,High,Developed,Dark Orange,100,100,70,62,67,59,70,61,NaN,NaN,7.6,5.3,NaN,13.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.9
+Central African Republic,Sub Saharan Africa,Low,Developing,Red,18,10,NaN,NaN,NaN,NaN,NaN,NaN,29,NaN,0.6,1.2,45,166.1,13.9,23.1,NaN,NaN,29.1,67.9,79.6,NaN
+Chad,Sub Saharan Africa,Low,Developing,Red,29,15,NaN,NaN,NaN,NaN,NaN,NaN,20,9,1.1,2.9,51,187.1,14.8,30,NaN,3.7,29.7,66.9,73.5,12.8
+Chile,Americas,High,Developing,Dark Orange,78,71,70,50,72,42,71,49,NaN,NaN,4.9,4.9,NaN,52.3,8.3,10.1,NaN,NaN,NaN,NaN,NaN,31.7
+China,Asia Pacific,Upper-Middle,Developing,Yellow,84,76,NaN,NaN,NaN,NaN,NaN,NaN,97,NaN,2.9,NaN,NaN,5.95,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25.7
+Colombia,Americas,Upper-Middle,Developing,Yellow,49,42,79,60,86,46,80,57,87,72,3.8,4.5,20,85,0.7,2.7,11.4,7.5,4.9,23.4,NaN,40.7
+Comoros,Sub Saharan Africa,Lower-Middle,Developing,Red,26,18,48,29,52,34,51,33,29,20,1,4.3,17,80,15.1,28.3,NaN,5.3,10,31.6,39,23.1
+"Congo, Dem. Rep.",Sub Saharan Africa,Low,Developing,Red,27,24,61,44,76,75,70,63,19,12,0.7,2.2,27,123.6,7.5,19.6,NaN,13.2,10,37.3,74.8,NaN
+"Congo, Rep.",Sub Saharan Africa,Lower-Middle,Developing,Red,31,21,64,58,77,80,69,67,43,28,1.6,4.6,26,131,8.1,8.5,NaN,NaN,6.9,27.3,54.2,18.8
+Cook Islands,Asia Pacific,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,58.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Costa Rica,Americas,Upper-Middle,Developing,Green,75,61,73,49,75,39,74,46,89,NaN,5.8,7.1,13,67.1,0.5,2.7,NaN,NaN,6.8,21.2,NaN,44.7
+Cote d'Ivoire,Sub Saharan Africa,Lower-Middle,Developing,Red,47,36,66,46,77,52,66,46,39,NaN,1.1,4.8,25,127,6.8,17.7,NaN,NaN,7,27,41.1,14.4
+Croatia,Post-communist,High,Developed,Dark Orange,90,83,58,48,56,41,57,46,NaN,NaN,5.6,4.6,NaN,14.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.2
+Cuba,Americas,Upper-Middle,Developing,Green,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,89,73,11.5,12.8,6,50,NaN,NaN,NaN,NaN,4.7,26,3.9,NaN
+Cyprus,Europe,High,Developed,Dark Orange,87,90,69,59,63,51,68,57,NaN,NaN,2.9,6.4,NaN,5.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.7
+Czech Republic,Post-communist,High,Developed,Dark Orange,84,79,69,53,68,52,69,53,86,NaN,6,5.8,NaN,11.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.3
+Democratic People's Republic of Korea,Asia Pacific,Low,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,90,NaN,NaN,NaN,NaN,0.85,NaN,NaN,NaN,NaN,NaN,NaN,9.6,NaN
+Denmark,Europe,High,Developed,Dark Orange,100,100,69,60,64,55,67,58,NaN,NaN,8.6,7.6,NaN,4.2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,32.7
+Djibouti,Sub Saharan Africa,Lower-Middle,Developing,Red,17,9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.4,4.5,NaN,21,NaN,NaN,NaN,NaN,1.8,5.4,NaN,16.4
+Dominica,Americas,Upper-Middle,Developing,Green,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.6,3.4,NaN,49.05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Dominican Republic,Americas,Upper-Middle,Developing,Dark Orange,58,54,76,51,79,40,76,49,82,67,2.5,NaN,21,95,1.7,3.6,NaN,4.3,12.3,35.9,2,30.3
+Ecuador,Americas,Upper-Middle,Developing,Yellow,60,43,77,52,85,61,79,55,79,NaN,4.2,5,NaN,100.9,NaN,NaN,NaN,NaN,2.5,20.4,NaN,37
+"Egypt, Arab Rep.",Middle East and North Africa,Lower-Middle,Developing,Dark Orange,39,27,65,22,68,22,67,22,80,64,1.6,NaN,7,50,1,5.4,NaN,3,2,17.4,35.7,23.8
+El Salvador,Americas,Lower-Middle,Developing,Orange,38,24,75,52,82,35,77,46,80,70,4.4,4,18,86.8,6.8,19.5,NaN,NaN,5.8,25.5,7.7,35.6
+Equatorial Guinea,Sub Saharan Africa,Upper-Middle,Developing,Red,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,20,0.6,NaN,42,176.5,NaN,NaN,NaN,NaN,8.6,29.5,52.6,NaN
+Eritrea,Sub Saharan Africa,Low,Developing,Red,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21,6,0.4,NaN,19,80.3,NaN,NaN,NaN,NaN,12.9,40.7,51.4,NaN
+Estonia,Post-communist,High,Developed,Dark Orange,98,98,74,59,67,55,71,57,NaN,NaN,4.9,5.2,NaN,22,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.9
+Eswatini,Sub Saharan Africa,Lower-Middle,Developing,Red,30,27,71,63,51,42,56,47,83,NaN,5,7.1,17,93.7,2.2,2.6,NaN,NaN,0.8,5.3,19.9,15.5
+Ethiopia,Sub Saharan Africa,Low,Developing,Red,41,29,73,61,88,79,85,75,62,NaN,1,4.7,21,87,48.8,58.2,NaN,2.1,14.1,40.3,63,26.7
+Fiji,Asia Pacific,Upper-Middle,Developing,Yellow,NaN,NaN,72,39,82,38,77,39,NaN,NaN,2.3,3.9,NaN,32.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Nan
+Finland,Europe,High,Developed,Dark Orange,100,100,65,57,59,53,63,56,NaN,NaN,7.6,7.1,NaN,8.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31.3
+France,Europe,High,Developed,Dark Orange,97,91,61,51,59,52,60,52,96,NaN,8.8,5.5,NaN,7.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.4
+Gabon,Sub Saharan Africa,Upper-Middle,Developing,Red,64,54,NaN,NaN,NaN,NaN,NaN,NaN,44,23,1.6,2.7,28,114.3,6.1,7,NaN,12.3,5.6,21.9,50.2,17.5
+Gambia,Sub Saharan Africa,Low,Developing,Dark Orange,NaN,NaN,70,49,67,52,69,50,27,11,0.8,3.1,19,103,NaN,NaN,NaN,3,9.3,30.4,58.4,NaN
+Georgia,Post-communist,Upper-Middle,Developing,Dark Orange,58,64,68,49,82,71,75,58,53,NaN,2.8,3.8,6,40.8,0.2,0.4,NaN,NaN,1.1,14,6.9,31.1
+Germany,Europe,High,Developed,Dark Orange,99,99,67,56,68,57,67,56,NaN,NaN,9.3,4.8,NaN,9.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,29.8
+Ghana,Sub Saharan Africa,Lower-Middle,Developing,Dark Orange,62,54,64,60,53,50,59,55,46,NaN,2.1,5.9,17,70.7,2.8,10.7,NaN,12.8,4.9,20.7,28.3,21.4
+Greece,Europe,High,Developed,Dark Orange,86,85,61,46,59,41,60,44,NaN,NaN,4.7,NaN,NaN,10.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23.6
+Grenada,Americas,Upper-Middle,Developing,Orange,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1.9,10.3,NaN,40.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Guatemala,Americas,Upper-Middle,Developing,Orange,46,42,81,47,89,30,85,39,66,50,1.9,3,20,98,NaN,NaN,0.7,3.7,6.2,29.5,11,34.2
+Guinea,Sub Saharan Africa,Low,Developing,Red,27,20,55,45,73,70,66,63,22,14,0.4,2.5,37,146.4,11.1,17.6,NaN,NaN,19.2,51.2,70.1,15.9
+Guinea-Bissau,Sub Saharan Africa,Low,Developing,Red,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,56,20,2.2,2.1,28,121.55,5,13.2,NaN,NaN,6.3,24.4,41.8,NaN
+Guyana,Americas,Upper-Middle,Developing,Green,NaN,NaN,71,52,68,40,69,44,52,17,2.3,5.3,16,81.4,1.9,2.6,NaN,NaN,3.6,30.2,10.2,NaN
+Haiti,Americas,Low,Developing,Red,35,30,67,49,80,59,74,54,43,31,0.9,3.2,14,65.55,19,12.7,NaN,4.8,2.1,14.9,16.6,28.6
+Holy See,Europe,High,Developed,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Honduras,Americas,Lower-Middle,Developing,Dark Orange,50,41,77,52,92,37,84,46,76,67,3,6.4,22,101.8,NaN,NaN,NaN,5.6,7.6,33.6,12.4,27.2
+Hong Kong,Asia Pacific,High,Developing,Red,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16.8
+Hungary,Post-communist,High,Developed,Dark Orange,78,72,65,49,67,49,66,49,NaN,NaN,4.7,4.6,NaN,20.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,26.4
+Iceland,Europe,High,Developed,Dark Orange,NaN,NaN,85,78,87,79,86,78,NaN,NaN,6.7,7.7,NaN,13.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31.1
+India,Asia Pacific,Lower-Middle,Developing,Dark Orange,83,77,76,18,80,26,79,23,67,27,0.9,3.8,9,41.1,NaN,NaN,NaN,1.7,6.8,27.3,44.6,29.2
+Indonesia,Asia Pacific,Lower-Middle,Developing,Yellow,46,51,79,50,85,55,82,52,78,72,1.2,3.6,7,50.95,NaN,NaN,NaN,NaN,0.6,11.2,34.5,35.7
+"Iran, Islamic Rep.",Middle East and North Africa,Upper-Middle,Developing,Dark Orange,96,92,63,15,66,16,64,15,69,NaN,4,2.8,5,34.8,NaN,NaN,NaN,NaN,2.7,16.7,NaN,24
+Iraq,Middle East and North Africa,Upper-Middle,Developing,Dark Orange,26,20,72,13,74,7,72,11,55,NaN,0.7,NaN,14,58.7,1,6,NaN,NaN,7.2,27.9,36.5,26.5
+Ireland,Europe,High,Developed,Dark Orange,95,95,70,58,67,53,69,56,NaN,NaN,5.3,3.8,NaN,16.2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30
+Israel,Middle East and North Africa,High,Developed,Dark Orange,92,94,68,59,70,64,68,60,NaN,NaN,4.6,5.9,NaN,13.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.8
+Italy,Europe,High,Developed,Dark Orange,96,92,60,41,59,40,59,41,NaN,NaN,6.7,4.1,NaN,6.75,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.1
+Jamaica,Americas,Upper-Middle,Developing,Yellow,79,78,71,62,76,59,73,61,79,NaN,3.6,5.5,15,70,0.5,0.3,NaN,NaN,1.4,7.9,11,36.9
+Japan,Asia Pacific,High,Developed,Dark Orange,98,98,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9.1,3.5,NaN,4.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.3
+Jordan,Middle East and North Africa,Upper-Middle,Developing,Dark Orange,56,27,NaN,NaN,NaN,NaN,NaN,NaN,57,31,3.6,3.6,5,28.2,0.4,2.1,NaN,2.7,0.3,8.4,46.2,NaN
+Kazakhstan,Post-communist,Upper-Middle,Developing,Dark Orange,57,60,NaN,NaN,NaN,NaN,NaN,NaN,79,NaN,1.9,2.8,2,28.9,NaN,NaN,NaN,NaN,0.2,7,14.2,19.1
+Kenya,Sub Saharan Africa,Lower-Middle,Developing,Red,86,78,80,68,76,74,78,71,76,68,1.7,5.3,23,104.5,NaN,NaN,2.8,4.8,4.4,22.9,41.8,24.2
+Kiribati,Asia Pacific,Lower-Middle,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36,0,6.9,NaN,9,42,NaN,NaN,NaN,NaN,2.8,20.3,75.6,NaN
+Kuwait,Middle East and North Africa,High,Developing,Red,83,73,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.4,NaN,NaN,13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kyrgyzstan,Post-communist,Lower-Middle,Developing,Orange,41,39,75,43,75,50,75,46,66,41,2.7,6,4,32.7,2.4,2.7,NaN,0.1,0.9,11.6,32.8,33.1
+Lao People's Democratic Republic,Asia Pacific,Lower-Middle,Developing,Red,26,32,59,49,39,30,45,37,72,48,0.9,2.9,18,79.7,2,2.1,NaN,NaN,7.1,32.7,29.5,NaN
+Latvia,Post-communist,High,Developed,Dark Orange,94,93,70,58,65,52,68,56,NaN,NaN,3.3,5.3,NaN,16.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17.1
+Lebanon,Middle East and North Africa,Upper-Middle,Developing,Red,57,33,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.9,2.5,NaN,17,NaN,NaN,NaN,NaN,1.2,6.1,9.7,21.9
+Lesotho,Sub Saharan Africa,Lower-Middle,Developing,Red,45,46,NaN,NaN,NaN,NaN,NaN,NaN,79,55,5.4,NaN,14,92,NaN,NaN,NaN,NaN,1,17.3,33.3,16.7
+Liberia,Sub Saharan Africa,Low,Developing,Red,44,28,75,63,91,84,82,72,41,22,1.1,4.1,37,149.8,1,5,NaN,12.7,8.8,35.9,42.5,22.2
+Libya,Middle East and North Africa,Upper-Middle,Developing,Orange,71,60,NaN,NaN,NaN,NaN,NaN,NaN,24,NaN,NaN,NaN,NaN,5.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Liechtenstein,Europe,High,Developed,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.6,NaN,3.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lithuania,Post-communist,High,Developed,Dark Orange,85,81,70,60,64,50,68,57,NaN,NaN,4.3,4.2,NaN,19.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,21
+Luxembourg,Europe,High,Developed,Red,99,98,66,57,61,54,64,56,NaN,NaN,5.1,3.9,NaN,8.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13.2
+"Macao SAR, China",Asia Pacific,High,Developing,Yellow,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Madagascar,Sub Saharan Africa,Low,Developing,Dark Orange,20,16,80,72,92,87,89,84,61,NaN,2.4,NaN,36,148.95,NaN,NaN,NaN,NaN,12.4,41.2,45.2,NaN
+Malawi,Sub Saharan Africa,Low,Developing,Red,38,30,75,65,56,47,60,50,74,62,2.7,5.6,31,157,5.3,11.3,NaN,10.6,9,42.1,16.3,22.1
+Malaysia,Asia Pacific,Upper-Middle,Developing,Dark Orange,88,82,79,56,83,49,80,54,NaN,NaN,2.1,5,NaN,12.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30.3
+Maldives,Asia Pacific,Upper-Middle,Developing,Yellow,NaN,NaN,80,48,77,46,78,47,43,18,6.4,4.5,1,14.3,NaN,NaN,NaN,9.9,0.3,3.9,25.8,NaN
+Mali,Sub Saharan Africa,Low,Developing,Red,45,26,75,46,84,59,81,55,35,21,1,3.8,33,176,13.4,24.1,NaN,5,18.3,49.7,72.6,NaN
+Malta,Europe,High,Developed,Dark Orange,98,97,70,49,70,54,70,49,NaN,NaN,5.7,5.3,NaN,16.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,29
+Marshall Islands,Asia Pacific,Upper-Middle,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,81,40,11.6,NaN,21,105.75,NaN,NaN,NaN,NaN,5.5,26.3,55.9,NaN
+Mauritania,Sub Saharan Africa,Lower-Middle,Developing,Red,26,15,63,26,63,29,63,28,30,NaN,1.8,2.6,22,86,10.2,20.1,NaN,NaN,17.8,37,24.9,18
+Mauritius,Sub Saharan Africa,Upper-Middle,Developing,Orange,93,87,NaN,NaN,NaN,NaN,NaN,NaN,41,NaN,2.4,4.9,NaN,32.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.4
+Mexico,Americas,Upper-Middle,Developing,Green,41,33,76,47,81,31,77,43,80,64,3,5.2,21,75.2,1.6,1.5,NaN,NaN,3.8,26.1,5,40.7
+Micronesia,Asia Pacific,Lower-Middle,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.2,12.5,NaN,54.2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Monaco,Europe,High,Developed,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Mongolia,Asia Pacific,Lower-Middle,Developing,Red,91,95,60,48,76,67,66,54,65,42,2,4.2,3,20.1,15.2,19.1,NaN,NaN,0.1,5.2,10.1,14.3
+Montenegro,Post-communist,Upper-Middle,Developing,Dark Orange,69,68,NaN,NaN,NaN,NaN,NaN,NaN,43,NaN,NaN,NaN,3,16.6,0,1,NaN,NaN,0.6,4.5,2.7,25.1
+Montserrat,Americas,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,45.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Morocco,Middle East and North Africa,Lower-Middle,Developing,Yellow,41,17,70,18,80,36,74,25,69,NaN,2.4,NaN,8,32,NaN,NaN,NaN,NaN,1.4,12.6,63.9,32.7
+Mozambique,Sub Saharan Africa,Low,Developing,Dark Orange,51,33,73,62,84,87,80,78,56,34,0.4,6.5,40,181.85,NaN,NaN,3.1,7.8,16.8,52.9,13.3,23.7
+Myanmar,Asia Pacific,Lower-Middle,Developing,Dark Orange,26,26,72,46,79,49,77,48,75,73,1.1,2.2,5,18.5,NaN,NaN,NaN,0.4,1.9,16,51.2,24.7
+Namibia,Sub Saharan Africa,Upper-Middle,Developing,Red,81,81,70,61,54,49,63,55,80,47,5.3,3.1,15,75.05,NaN,NaN,NaN,8.4,1.6,6.9,28.2,21.6
+Nauru,Asia Pacific,Upper-Middle,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,43,NaN,5.3,NaN,22,81,NaN,NaN,NaN,NaN,1.9,26.8,NaN,NaN
+Nepal,Asia Pacific,Low,Developing,Dark Orange,50,42,60,32,48,21,54,26,56,25,1,3.7,16,87,7.4,17.4,NaN,1.7,7,39.5,28.5,30.5
+Netherlands,Europe,High,Developed,Dark Orange,99,100,70,59,69,58,70,59,NaN,NaN,8.4,5.4,NaN,4.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,35.3
+New Caledonia,Asia Pacific,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+New Zealand,Asia Pacific,High,Developed,Dark Orange,99,99,76,65,81,70,76,65,NaN,NaN,7.4,6.3,NaN,26.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31.3
+Nicaragua,Americas,Lower-Middle,Developing,Yellow,37,25,78,56,90,35,83,48,93,87,4.5,4.1,28,107.25,NaN,NaN,NaN,NaN,9.7,35.2,13.7,38.7
+Niger,Sub Saharan Africa,Low,Developing,Red,20,11,70,40,90,68,86,63,46,28,1.5,6,48,184.2,17.5,25.3,NaN,NaN,28,76.3,59.6,16.8
+Nigeria,Sub Saharan Africa,Lower-Middle,Developing,Dark Orange,51,27,54,49,58,48,56,49,43,15,0.6,NaN,31,121.2,7.4,9.3,NaN,5,18.2,43.5,33.7,22.2
+Niue,Asia Pacific,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.45,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+North Macedonia,Post-communist,Upper-Middle,Developing,Dark Orange,80,73,66,42,72,45,67,43,22,NaN,4.1,NaN,2,19.3,0.6,1.2,NaN,NaN,0.9,6.9,14.5,23.4
+Norway,Europe,High,Developed,Dark Orange,99,100,68,64,65,59,66,62,NaN,NaN,8.6,7.6,NaN,8.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36.8
+Oman,Middle East and North Africa,High,Developing,Dark Orange,84,64,89,33,81,21,88,30,40,NaN,3.8,6.7,2,12.95,NaN,NaN,NaN,NaN,1.2,4,7.9,21.1
+Pakistan,Asia Pacific,Lower-Middle,Developing,Yellow,35,7,78,12,82,28,80,22,49,23,0.7,2.7,7,51.1,NaN,NaN,NaN,12,2.8,21,41.1,31.5
+Palau,Asia Pacific,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4.5,NaN,NaN,29,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Panama,Americas,High,Developing,Green,51,42,74,52,80,45,76,50,73,37,4.2,3.2,NaN,84.3,NaN,NaN,NaN,NaN,6.8,26.4,5.7,39.5
+Papua New Guinea,Asia Pacific,Lower-Middle,Developing,Dark Orange,NaN,NaN,57,52,48,47,49,48,41,NaN,1.7,NaN,14,67.5,NaN,NaN,NaN,NaN,2.1,21.3,NaN,NaN
+Paraguay,Americas,Upper-Middle,Developing,Dark Orange,51,46,83,62,87,55,84,59,79,83,4.2,4.5,NaN,63.5,3.7,8.5,NaN,NaN,3.6,21.6,6,23.3
+Peru,Americas,Upper-Middle,Developing,Orange,51,34,80,64,92,86,83,69,67,65,3.2,4,16,64,3.3,4.7,NaN,NaN,2.6,19,NaN,34.6
+Philippines,Asia Pacific,Lower-Middle,Developing,Yellow,30,39,71,48,74,43,72,45,53,47,1.4,NaN,11,54.3,NaN,NaN,NaN,2.3,2.2,16.5,10.9,35
+Poland,Post-communist,High,Developed,Dark Orange,85,88,65,50,65,46,65,48,NaN,NaN,4.4,4.8,NaN,14.2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,27.5
+Portugal,Europe,High,Developed,Red,94,91,65,56,63,50,64,54,NaN,NaN,5.9,4.9,NaN,15.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24.8
+Puerto Rico,Americas,High,Developed,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,56.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Qatar,Middle East and North Africa,High,Developing,Red,69,62,96,59,NaN,NaN,96,59,69,NaN,2.6,2.9,NaN,14.6,NaN,NaN,NaN,NaN,0,4.2,6.6,NaN
+Republic of Moldova,Post-communist,Lower-Middle,Developing,Dark Orange,43,45,47,39,45,42,46,41,60,NaN,4.6,NaN,4,27.85,NaN,NaN,NaN,4.8,0.4,12.2,11.2,NaN
+Romania,Post-communist,Upper-Middle,Developed,Orange,62,54,65,47,65,43,65,46,47,NaN,3.9,3.1,NaN,37,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.8
+Russian Federation,Post-communist,Upper-Middle,Developing,Dark Orange,75,76,73,58,67,50,71,56,72,NaN,3.1,3.8,NaN,27.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18.7
+Rwanda,Sub Saharan Africa,Low,Developing,Red,56,45,70,57,58,41,61,44,63,84,2.2,3.8,6,41,21.8,30.9,3,14,0.4,6.8,41.4,19.6
+Saint Kitts and Nevis,Americas,High,Developing,Yellow,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.1,2.8,NaN,74.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Saint Lucia,Americas,Upper-Middle,Developing,Green,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,72,NaN,2.2,4.4,NaN,51.4,2.6,1,NaN,NaN,3.7,24,6.5,NaN
+Saint Vincent and the Grenadines,Americas,Upper-Middle,Developing,Green,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.6,5.8,NaN,67.55,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Samoa,Asia Pacific,Upper-Middle,Developing,Green,NaN,NaN,60,42,54,29,55,31,39,11,4.5,4.1,6,40.8,NaN,NaN,NaN,NaN,0.7,10.8,36.5,NaN
+San Marino,Europe,High,Developed,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.5,2.4,NaN,1.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sao Tome and Principe,Sub Saharan Africa,Lower-Middle,Developing,Green,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,52,38,1.7,3.9,27,92.5,12.3,15.4,NaN,5.7,7.9,35.4,19.1,NaN
+Saudi Arabia,Middle East and North Africa,High,Developing,Dark Orange,81,58,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4.1,NaN,NaN,14.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Senegal,Sub Saharan Africa,Lower-Middle,Developing,Dark Orange,47,38,55,36,62,33,58,35,51,25,1.7,7.1,16,92.7,6.2,22.9,NaN,5.4,8.4,28.8,45.7,21.9
+Serbia,Post-communist,Upper-Middle,Developing,Orange,73,70,61,47,66,46,63,47,39,NaN,5.4,4,1,22,0.1,0.3,NaN,NaN,0.3,3.2,3.8,29
+Seychelles,Sub Saharan Africa,High,Developing,Yellow,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.2,4.4,NaN,59,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sierra Leone,Sub Saharan Africa,Low,Developing,Red,25,15,62,62,49,46,58,56,45,32,1.6,4.6,30,125.1,3.8,4.7,4.1,5.3,12.9,29.9,52.6,15.3
+Singapore,Asia Pacific,High,Developing,Dark Orange,100,96,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.2,2.9,NaN,6.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Slovakia,Post-communist,High,Developed,Dark Orange,85,83,68,54,67,50,68,52,NaN,NaN,5.4,4.6,NaN,21.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28.2
+Slovenia,Post-communist,High,Developed,Dark Orange,98,97,64,54,64,54,64,54,NaN,NaN,6.1,4.9,NaN,5.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24.6
+Solomon Islands,Asia Pacific,Lower-Middle,Developing,Green,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,38,13,3.5,9.9,15,70,5.9,8.6,NaN,NaN,5.6,21.3,76.7,NaN
+Somalia,Sub Saharan Africa,Low,Developing,,44,34,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,133,NaN,NaN,NaN,NaN,8.4,45.3,75.7,NaN
+South Africa,Sub Saharan Africa,Upper-Middle,Developing,Dark Orange,68,70,69,55,48,35,62,48,78,NaN,4.4,6,15,66,1.4,1.8,NaN,NaN,0.8,5.6,5.5,15.9
+South Korea,Asia Pacific,High,Developing,Dark Orange,95,95,73,53,76,56,74,53,NaN,NaN,4.2,5.3,NaN,1.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,24.8
+South Sudan,Sub Saharan Africa,Low,Developing,,13,5,NaN,NaN,NaN,NaN,NaN,NaN,6,NaN,NaN,1.4,28,156.65,NaN,NaN,NaN,NaN,8.9,51.5,78.5,NaN
+Spain,Europe,High,Developed,Dark Orange,96,92,65,53,59,46,64,52,NaN,NaN,6.5,4.3,NaN,9.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36
+Sri Lanka,Asia Pacific,Upper-Middle,Developing,Dark Orange,74,73,73,30,76,37,75,36,74,58,1.7,2.2,4,24.95,NaN,NaN,NaN,NaN,0.9,9.8,53.2,33.8
+State of Palestine,Middle East and North Africa,Lower-Middle,Developing,Dark Orange,34,16,NaN,NaN,NaN,NaN,NaN,NaN,65,35,NaN,5.1,22,48.4,1.2,5.5,NaN,NaN,1,15.3,NaN,34.5
+Sudan,Sub Saharan Africa,Lower-Middle,Developing,Red,20,10,66,25,73,30,70,28,30,19,2.1,NaN,22,86.8,4.4,7.5,NaN,NaN,11.9,34.2,34,NaN
+Suriname,Americas,Upper-Middle,Developing,Dark Orange,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,73,NaN,4,NaN,NaN,61.35,2.4,1.9,NaN,NaN,5.2,18.8,12.5,25.4
+Sweden,Europe,High,Developed,Dark Orange,99,100,76,72,73,69,76,71,NaN,NaN,9.2,7.6,NaN,5.9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28
+Switzerland,Europe,High,Developed,Dark Orange,98,99,74,62,75,67,74,63,NaN,NaN,7.5,5.1,NaN,4.3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34.3
+Syria,Middle East and North Africa,Low,Developing,Dark Orange,27,20,NaN,NaN,NaN,NaN,NaN,NaN,53,31,NaN,NaN,9,52.6,NaN,NaN,NaN,NaN,2.5,13.3,NaN,19.1
+Tajikistan,Post-communist,Low,Developing,Dark Orange,52,42,54,28,57,29,56,29,45,18,1.9,5.2,1,46.65,NaN,NaN,NaN,NaN,0.1,8.7,63.6,34.2
+Tanzania,Sub Saharan Africa,Low,Developing,Red,52,42,83,72,91,86,88,80,54,35,1.3,3.5,22,128,4,7.3,NaN,8.1,5.2,30.5,58,22.1
+Thailand,Asia Pacific,Upper-Middle,Developing,Yellow,84,80,76,61,77,59,77,60,89,83,2.8,4.1,9,48.9,NaN,NaN,NaN,NaN,4.4,22.5,8.6,37.3
+Timor-Leste,Asia Pacific,Lower-Middle,Developing,Dark Orange,NaN,NaN,65,50,75,65,73,61,37,22,2.3,2.7,7,54,NaN,NaN,NaN,2.4,2.6,14.9,74,NaN
+Togo,Sub Saharan Africa,Low,Developing,Red,53,38,45,53,53,69,49,61,37,15,1.3,5.2,8,84.7,9.2,15.7,NaN,4.9,5.5,21.8,28.7,13.2
+Tokelau,Asia Pacific,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,30,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tonga,Asia Pacific,Upper-Middle,Developing,Yellow,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,48,NaN,2.7,NaN,2,19,NaN,NaN,NaN,NaN,0.3,5.6,28.9,NaN
+Trinidad and Tobago,Americas,High,Developing,Dark Orange,88,74,NaN,NaN,NaN,NaN,NaN,NaN,58,61,3.2,NaN,NaN,35.35,0,0,NaN,NaN,2.7,11.2,3.7,15.7
+Tunisia,Middle East and North Africa,Lower-Middle,Developing,Dark Orange,46,28,69,29,73,18,70,26,73,NaN,4,6.6,1,6,1.1,0.9,NaN,NaN,0,1.6,30.3,26.2
+Turkey,Middle East and North Africa,Upper-Middle,Developing,Orange,83,54,NaN,NaN,NaN,NaN,NaN,NaN,60,30,3.2,4.3,6,32,NaN,NaN,NaN,NaN,1.1,14.7,13.3,26.4
+Turkmenistan,Post-communist,Upper-Middle,Developing,Dark Orange,46,36,NaN,NaN,NaN,NaN,NaN,NaN,76,11,1.5,3,1,22.25,0,0,NaN,NaN,0,5.7,26.3,14.6
+Turks and Caicos Islands,Americas,High,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3.3,NaN,41.4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tuvalu,Asia Pacific,Upper-Middle,Developing,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,41,NaN,13.2,NaN,3,35,NaN,NaN,NaN,NaN,0,9.9,70,NaN
+Uganda,Sub Saharan Africa,Low,Developing,Red,66,53,77,60,57,39,62,45,54,NaN,1,2.8,28,148.7,7.2,18.2,4.2,8.6,7.3,34,49,19.4
+Ukraine,Post-communist,Lower-Middle,Developing,Orange,65,61,70,58,67,54,69,57,68,NaN,2.9,5,4,29.1,1.6,1.6,NaN,NaN,0.1,9.1,2.9,26.4
+United Arab Emirates,Middle East and North Africa,High,Developing,Red,93,76,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2.6,NaN,NaN,22.43194,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+United Kingdom,Europe,High,Developed,Dark Orange,97,96,69,58,64,55,68,58,NaN,NaN,7.9,5.6,NaN,25.6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31.9
+United States of America,Americas,High,Developed,Dark Orange,94,93,70,58,64,53,69,57,77,NaN,13.8,5,NaN,38.8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20.7
+Uruguay,Americas,High,Developing,Green,68,61,72,56,77,51,72,56,NaN,NaN,6.2,4.4,NaN,59.01726,0.7,1.8,NaN,NaN,0.7,24.6,1.5,36.1
+Uzbekistan,Post-communist,Lower-Middle,Developing,Orange,38,36,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,3,7.1,2,16.2,NaN,NaN,NaN,NaN,0.3,7.2,69.6,29.1
+Vanuatu,Asia Pacific,Lower-Middle,Developing,Yellow,NaN,NaN,68,51,82,63,78,60,51,NaN,2,5.5,13,72,0.8,0.4,NaN,NaN,2.5,21.4,59.6,40.6
+Venezuela,Americas,Upper-Middle,Developing,Dark Orange,77,70,69,46,76,32,69,45,NaN,NaN,2,NaN,24,91.7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,33.6
+Vietnam,Asia Pacific,Lower-Middle,Developing,Green,31,30,74,63,85,77,81,72,70,60,2.4,5.7,5,30.55,2.4,4.3,NaN,NaN,0.9,10.6,28.2,40.3
+Yemen,Middle East and North Africa,Low,Developing,Red,11,2,66,8,65,5,65,6,38,22,0.6,NaN,17,74.5,NaN,NaN,NaN,NaN,9.4,31.9,48.7,22.8
+Zambia,Sub Saharan Africa,Lower-Middle,Developing,Dark Orange,52,40,59,36,34,20,45,28,62,57,2.1,NaN,31,146.4,8.2,9,NaN,6.4,5.9,31.4,46.9,25.2
+Zimbabwe,Sub Saharan Africa,Lower-Middle,Developing,Dark Orange,59,52,70,87,90,95,82,92,85,77,4,7.5,22,106.3,NaN,NaN,NaN,8.7,3.7,32.4,38.7,22.1
